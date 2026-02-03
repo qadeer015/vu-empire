@@ -1,0 +1,122 @@
+Suppose a teammate
+and I are building a new website as my first
+development project. I've set up my repository on GitHub and I've
+added my first file, but now I'm ready to work
+with my teammate on the site. In this video, you'll learn
+how to collaborate on GitHub. Let's get started. I've already logged into my GitHub account, and I'm on the code tab of
+the project repository. This tab shows me
+all the code in my repository and gives me
+options for managing it. To add my teammate as a
+collaborator on my repository, I'll select the settings tab. Adding a collaborator on GitHub allows them
+to contribute to the project by pushing
+changes, managing branches, reviewing code,
+and participating in project discussions, so I'll be sure to
+only add teammates I know and want working
+on the repository. Next, I'll select collaborators
+from the side menu. To begin adding my teammate, I'll select add people, a screen will pop up to add a collaborator to
+the website project. Here I'll type in
+the user name of my teammate, which
+is discipula0619. When the correct
+user name appears, I'll select it from the list. Finally, I'll select the add discipula0619 to the
+repository button, this will send an invitation to my teammate to collaborate
+on the repository. Once I invite my teammate
+to the repository, they need to accept
+the invitation. Until they accept,
+they will show as pending in my
+collaborator's dashboard. Once they accept, their status will change to collaborator. Now that I've added my teammate, I can start creating
+and tracking issues. I select the issues tab
+to set up my first issue. Issues in GitHub are a
+tool for tracking bugs, suggesting features and
+managing project tasks. The website my
+teammate and I are creating needs the
+homepage to be structured. I create an issue for this by selecting the new issue button. On the next screen,
+I'll add a title, the title should be
+descriptive but concise. I'll name the issue, feature
+structure homepage layout. Next, I'll add a description of the task and any requirements. In the description
+box for this issue, I'll add task, create the
+basic layout for the homepage. Details, header section
+with navigation menu, section with background
+image and headline, content section,
+and footer section. Requirements, ensure
+the layout is responsive for mobile
+and desktop views. I can also add images or files
+such as design documents. I want to add a design document that shows the
+design of the page, so I select paste, drop, or click to add files. I select the correct
+file and select open. After I've added the file, I need to add details
+of the issue. I select assignees and
+choose from the list. I'm able to choose
+anyone that is a collaborator in my repository. Next, I select labels. Since this is a new feature,
+I select enhancement. Since I do not have any
+repository assigned any projects or milestones,
+I'll skip those for now. To finalize the issue, I will then select,
+submit new issue. Notice the issue
+appears on a new page. It has a status of open, it includes the
+information that I added, as well as an area for comments. It also includes a section
+called development that allows me or a collaborator to create a branch
+for this issue. Now, suppose my
+teammate has done some development
+work on the issue, they committed their code and are ready to create
+a pull request. A pull request in
+GitHub is a proposal to merge changes from
+one branch into another, allowing for code review and discussion
+before integration. I'm going to switch
+over to my teammates account and create
+a pull request. To do so, I go to the pull
+request tab then I can select compare and
+pull requests that are featured for the new
+branch that was created. In a pull request, the base is the branch where you want
+to merge your changes, and the compare is
+the branch that contains the changes you
+want to merge into the base. I double check that the
+base branch is main, and the compare
+branch is the branch my teammate was working
+on, descipula branch. Then I add a clear
+descriptive title like feature add header section
+with navigation menu. Next, I'll add a description, the description should
+include a summary, details, and any testing
+criteria for a pull request. For this pull request,
+I'll add summary, this pull request
+adds a header section with a navigation menu
+to the home page. Details create a fixed
+header with the sites logo, add a responsive navigation
+menu with links to home, about, services, and
+contact sections. Testing, ensure the header is visible and fixed at
+the top of the page. Verify that the navigation link scroll to the appropriate
+sections on the page, check the responsiveness of the header on different
+screen sizes. Then I'll double check
+who the reviewer is. I verify that it is my
+account, learner 0615. I select request to
+request the review. Code reviews are important
+for maintaining code quality, so it's important to have
+someone review your code. Finally, I select create pull request to
+create the request. Now, I'll switch back
+to my GitHub account to review the code and
+merge the changes. I've received a
+notification that my teammate has requested a
+review of their pull request. I select, add your review
+to begin my code review. I read through the new
+code and do a review. I'm checking for code
+correctness, readability, adherence to coding standards, potential impact, and the impact on existing
+functionality. I noticed that the
+code is accurate, but my teammate did not add a shop navigation item to
+the top level navigation. I select review changes
+to leave feedback. I will also add a
+detailed comment about the missing
+navigation item. Since the rest of the code is
+correct, I select approve. This will submit the
+feedback to my teammate, but also approve merging the existing changes
+to the main branch. Merging is the process of combining changes from
+one branch into another, typically, integrating new
+code into the main branch. Then I select the
+submit review button this takes me back
+to the pull request. Even though I
+approve the changes, it did not automatically
+merge the changes. To merge the changes,
+I select merge, pull request, and then
+select, confirm merge. There's now a button
+to delete branch, but I won't do that. Today, you learned
+how to collaborate on a GitHub project from adding collaborators
+and managing issues to creating pull requests, and conducting code reviews. These tools and processes
+are essential for effective teamwork
+and maintaining code quality in any
+development project.

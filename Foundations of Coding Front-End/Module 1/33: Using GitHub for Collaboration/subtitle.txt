@@ -1,0 +1,61 @@
+[MUSIC] Suppose you just joined a large team to
+begin work developing a financial services application. Your team has to create features such
+as signup flows, user authentication, overview of account balances,
+bill payment, and more. Your team is using GitHub as a version
+control system where everyone can collaborate and contribute to
+the project seamlessly, track changes, and review each other's work efficiently. In this video, we will summarize the
+process of setting up a GitHub repository. GitHub is more than just
+a place to store code. It enables collaboration through
+the lifecycle of a project, making sure that everyone's
+contributions fit together seamlessly. Let's review some of the benefits
+of using GitHub for collaboration. Instead of developers working in isolation
+and trying to merge their work at the end, a process prone to conflicts and errors,
+GitHub allows developers to continuously observe and integrate the team's work,
+ensuring seamless integration. It also allows them to share resources
+such as common libraries, tools and code snippets to increase efficiency and
+consistency across the project. GitHub also helps the team follow
+clear workflows for coding, reviewing, testing, and building. But how exactly do developers
+use GitHub for collaboration? They employ some common
+collaborative actions, starting with creating a repository. Next, you'll manage branches to keep
+different features or fixes organized. Then you'll submit pull requests
+to propose changes, and finally, you'll conduct code reviews to ensure
+everything is working as it should. Let's examine each of
+these in more detail. To start a new project on GitHub, you need
+to create a repository that will store your project files and version history. Creating a repository
+involves logging into GitHub, navigating to the repository section,
+and selecting the new button. You will need to provide a name for
+your repository, an optional description, and choose whether it will be public or
+private. For example, you might start a new project
+by creating a repository named financial web app on GitHub, making it public so
+others can view and contribute. Once you create a repository,
+development can begin and you will create and manage branches. Your team will develop on branches, which
+allows you to work on different features or fixes independently before
+merging them into the main codebase. To create a branch,
+navigate to your repository on GitHub and use the branch drop-down
+menu to create a new branch. Naming conventions often
+include the feature or fix being worked on for
+your financial services application. You might create a branch for the new
+feature login flow to ensure the main branch remains stable and
+production ready. After doing some development work, you
+want to add your work to the main branch. You submit a pull request to propose
+the changes you've made in a branch to be merged into the main codebase. After committing changes to a branch, navigate to the pull request tab in your
+repository and select new pull request. You can then compare
+changes across branches and provide a description of
+the proposed changes. For instance, you submit a pull request to
+merge your login flow branch into the main branch, describing the new login
+functionality you've implemented. Finally, it's time to have
+a colleague review your work. You initiate a code review that involves a
+team member reviewing changes proposed in a pull request to ensure code quality and
+functionality before merging. Reviewing a pull request involves
+checking the code for errors and for standards, as well as for
+overall functionality. Reviewers can comment on specific lines,
+suggest changes, and approve the pull request once satisfied. Your team members review your login flow
+pull request while you get a code review request from another team member working
+on the user authentication feature. You notice that the code lacks error
+handling for potential issues like null inputs or invalid user data, so
+you add this as a comment in your review. This code review helps maintain high code
+quality and allows you to share knowledge. In this video, we summarize the process
+of setting up a GitHub repository. By setting up and
+using GitHub repositories, development teams can effectively
+collaborate, manage code changes, and maintain a high quality codebase. This enhances productivity and
+ensures successful project outcomes. [MUSIC]

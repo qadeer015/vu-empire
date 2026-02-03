@@ -1,0 +1,349 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.945
+[MUSIC]
+
+2
+00:00:07.610 --> 00:00:11.979
+Suppose you just joined a large team to
+begin work developing a financial services
+
+3
+00:00:11.979 --> 00:00:13.630
+application.
+
+4
+00:00:13.630 --> 00:00:18.455
+Your team has to create features such
+as signup flows, user authentication,
+
+5
+00:00:18.455 --> 00:00:22.050
+overview of account balances,
+bill payment, and more.
+
+6
+00:00:23.110 --> 00:00:26.575
+Your team is using GitHub as a version
+control system where everyone
+
+7
+00:00:26.575 --> 00:00:30.710
+can collaborate and contribute to
+the project seamlessly, track changes, and
+
+8
+00:00:30.710 --> 00:00:33.680
+review each other's work efficiently.
+
+9
+00:00:33.680 --> 00:00:38.180
+In this video, we will summarize the
+process of setting up a GitHub repository.
+
+10
+00:00:39.440 --> 00:00:42.800
+GitHub is more than just
+a place to store code.
+
+11
+00:00:42.800 --> 00:00:46.021
+It enables collaboration through
+the lifecycle of a project,
+
+12
+00:00:46.021 --> 00:00:50.560
+making sure that everyone's
+contributions fit together seamlessly.
+
+13
+00:00:50.560 --> 00:00:53.780
+Let's review some of the benefits
+of using GitHub for collaboration.
+
+14
+00:00:55.330 --> 00:01:00.100
+Instead of developers working in isolation
+and trying to merge their work at the end,
+
+15
+00:01:00.100 --> 00:01:04.806
+a process prone to conflicts and errors,
+GitHub allows developers to continuously
+
+16
+00:01:04.806 --> 00:01:09.070
+observe and integrate the team's work,
+ensuring seamless integration.
+
+17
+00:01:10.210 --> 00:01:14.683
+It also allows them to share resources
+such as common libraries, tools and
+
+18
+00:01:14.683 --> 00:01:19.230
+code snippets to increase efficiency and
+consistency across the project.
+
+19
+00:01:20.700 --> 00:01:25.085
+GitHub also helps the team follow
+clear workflows for coding, reviewing,
+
+20
+00:01:25.085 --> 00:01:26.600
+testing, and building.
+
+21
+00:01:27.660 --> 00:01:32.220
+But how exactly do developers
+use GitHub for collaboration?
+
+22
+00:01:32.220 --> 00:01:34.984
+They employ some common
+collaborative actions,
+
+23
+00:01:34.984 --> 00:01:38.060
+starting with creating a repository.
+
+24
+00:01:38.060 --> 00:01:42.660
+Next, you'll manage branches to keep
+different features or fixes organized.
+
+25
+00:01:42.660 --> 00:01:46.102
+Then you'll submit pull requests
+to propose changes, and finally,
+
+26
+00:01:46.102 --> 00:01:50.430
+you'll conduct code reviews to ensure
+everything is working as it should.
+
+27
+00:01:50.430 --> 00:01:52.490
+Let's examine each of
+these in more detail.
+
+28
+00:01:54.110 --> 00:01:58.240
+To start a new project on GitHub, you need
+to create a repository that will store
+
+29
+00:01:58.240 --> 00:02:00.410
+your project files and version history.
+
+30
+00:02:01.790 --> 00:02:05.337
+Creating a repository
+involves logging into GitHub,
+
+31
+00:02:05.337 --> 00:02:09.970
+navigating to the repository section,
+and selecting the new button.
+
+32
+00:02:11.390 --> 00:02:15.682
+You will need to provide a name for
+your repository, an optional description,
+
+33
+00:02:15.682 --> 00:02:18.940
+and choose whether it will be public or
+private.
+
+34
+00:02:18.940 --> 00:02:23.798
+For example, you might start a new project
+by creating a repository named financial
+
+35
+00:02:23.798 --> 00:02:27.920
+web app on GitHub, making it public so
+others can view and contribute.
+
+36
+00:02:28.980 --> 00:02:32.036
+Once you create a repository,
+development can begin and
+
+37
+00:02:32.036 --> 00:02:34.080
+you will create and manage branches.
+
+38
+00:02:35.660 --> 00:02:40.105
+Your team will develop on branches, which
+allows you to work on different features
+
+39
+00:02:40.105 --> 00:02:43.800
+or fixes independently before
+merging them into the main codebase.
+
+40
+00:02:45.220 --> 00:02:48.860
+To create a branch,
+navigate to your repository on GitHub and
+
+41
+00:02:48.860 --> 00:02:52.080
+use the branch drop-down
+menu to create a new branch.
+
+42
+00:02:53.460 --> 00:02:56.153
+Naming conventions often
+include the feature or
+
+43
+00:02:56.153 --> 00:02:59.692
+fix being worked on for
+your financial services application.
+
+44
+00:02:59.692 --> 00:03:03.824
+You might create a branch for the new
+feature login flow to ensure the main
+
+45
+00:03:03.824 --> 00:03:06.668
+branch remains stable and
+production ready.
+
+46
+00:03:06.668 --> 00:03:11.156
+After doing some development work, you
+want to add your work to the main branch.
+
+47
+00:03:11.156 --> 00:03:15.620
+You submit a pull request to propose
+the changes you've made in a branch to be
+
+48
+00:03:15.620 --> 00:03:17.520
+merged into the main codebase.
+
+49
+00:03:18.660 --> 00:03:20.924
+After committing changes to a branch,
+
+50
+00:03:20.924 --> 00:03:25.600
+navigate to the pull request tab in your
+repository and select new pull request.
+
+51
+00:03:26.620 --> 00:03:29.367
+You can then compare
+changes across branches and
+
+52
+00:03:29.367 --> 00:03:32.780
+provide a description of
+the proposed changes.
+
+53
+00:03:32.780 --> 00:03:37.466
+For instance, you submit a pull request to
+merge your login flow branch into the main
+
+54
+00:03:37.466 --> 00:03:42.110
+branch, describing the new login
+functionality you've implemented.
+
+55
+00:03:42.110 --> 00:03:46.110
+Finally, it's time to have
+a colleague review your work.
+
+56
+00:03:46.110 --> 00:03:50.939
+You initiate a code review that involves a
+team member reviewing changes proposed in
+
+57
+00:03:50.939 --> 00:03:55.170
+a pull request to ensure code quality and
+functionality before merging.
+
+58
+00:03:56.470 --> 00:04:00.600
+Reviewing a pull request involves
+checking the code for errors and for
+
+59
+00:04:00.600 --> 00:04:04.680
+standards, as well as for
+overall functionality.
+
+60
+00:04:04.680 --> 00:04:09.190
+Reviewers can comment on specific lines,
+suggest changes, and
+
+61
+00:04:09.190 --> 00:04:12.145
+approve the pull request once satisfied.
+
+62
+00:04:12.145 --> 00:04:16.463
+Your team members review your login flow
+pull request while you get a code review
+
+63
+00:04:16.463 --> 00:04:20.791
+request from another team member working
+on the user authentication feature.
+
+64
+00:04:20.791 --> 00:04:25.162
+You notice that the code lacks error
+handling for potential issues like null
+
+65
+00:04:25.162 --> 00:04:29.340
+inputs or invalid user data, so
+you add this as a comment in your review.
+
+66
+00:04:30.480 --> 00:04:35.537
+This code review helps maintain high code
+quality and allows you to share knowledge.
+
+67
+00:04:40.028 --> 00:04:44.880
+In this video, we summarize the process
+of setting up a GitHub repository.
+
+68
+00:04:44.880 --> 00:04:47.653
+By setting up and
+using GitHub repositories,
+
+69
+00:04:47.653 --> 00:04:52.063
+development teams can effectively
+collaborate, manage code changes,
+
+70
+00:04:52.063 --> 00:04:54.930
+and maintain a high quality codebase.
+
+71
+00:04:54.930 --> 00:04:59.268
+This enhances productivity and
+ensures successful project outcomes.
+
+72
+00:04:59.268 --> 00:04:59.768
+[MUSIC]

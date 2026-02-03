@@ -1,0 +1,100 @@
+Ever lost work or struggled
+to collaborate on a project, enter Git, the
+lifesaver of coding. This powerful version
+control system keeps track of every change, making teamwork smooth
+and mistakes fixable. In this video, we will describe the basics of Git commands, and their uses in
+front end development. Let's start by reviewing the
+benefits of version control. Version control is
+essential because it tracks all changes
+made to the code, allows developers
+to collaborate, enables easy reversion
+to previous versions, and lets developers work
+a new features or fixes, without affecting
+the main code base. Though there are other
+version control systems, Git is the one that's
+most widely used. Git is a distributed
+version control system that helps developers
+track changes, collaborate, and maintain
+the history of their code. Think of Git as one of
+the essential tools every developer needs, like brushes and
+palettes to a painter, which helps them create and manage different
+versions of their work. In contrast, GitHub is like an art gallery where
+artists store their pieces, showcase their work, and
+collaborate with other artists. How does get enable developers to maintain the
+history of their code, track changes, and collaborate? Git involves the use of
+repositories and branching. Let's examine how Git uses
+both of these strategies. In Git, a repository is a storage space where all files related to
+a project are kept, including their complete
+change history. These repositories hold
+snapshots of all code versions, allowing developers
+to track changes, maintain a history, and roll back to a previous
+version, if necessary. Next, let's explore branching. If you think of the main
+code as the main branch, developers create other
+branches when they need to add new code or make changes
+to the existing code. Think of branching like
+making a copy of a folder. When a new branch is created, it's like making a copy. Developers can add to, modify, and test these
+documents in this copy, without impacting the original. Once they're sure their edits
+are correct and stable, they can merge the changes into the folder back
+into the main branch, updating it with all
+the new modifications. Developers use
+repositories and branching to manage their code with
+the help of Git in GitHub. But how do developers
+interact with these tools? They execute commands. Developers execute
+commands typically through an application like GitHub
+or Visual Studio Code. Some of the basic commands
+developers use include clone, branch, commit, push, and pull. Let's explore each
+of these commands in detail, starting with clone. The clone command
+creates a local copy of the repository a
+developer is working on. This allows them
+to start working with the code base on
+their own machine. To use the clone command, you would type git, space, clone, space, then
+the URL of the repository. For instance, if you're
+developing a new feature for the shopping cart user interface on an e-commerce website, you would first clone
+the existing project. Next, you need to create a branch using the
+branch command. The branch command allows
+developers to create a new branch to work on a
+specific feature or fix. Working on branches keeps
+the main code base stable. To use the branch command, you would type git, space, branch, space, then
+the name of the branch. For your shopping cart
+user interface feature, you might create
+a branch by using the command git branch
+feature-shopping-cart-ui. With a copy of the repository on your local machine
+and a branch created, you're now ready to get started
+on the development work. Once you write some code or make some code changes to
+the existing code, you will commit your code. The commit command captures a snapshot of the
+project's changes. This allows you to
+track your progress and revert to a previous
+version if needed. To use the commit command, you would type git, space, commit, space, -m, then a commit message in quotes. Notice that the commit command includes the commit message. This is where a developer
+writes a meaningful message to describe what changes were
+made to the code base. For example, after creating the basic layout for
+the shopping cart, you might commit
+with the message, initialized shopping
+cart layout. When you're done with
+all of your changes, you use the push command. The push command updates the remote repository
+with local changes, allowing others to
+review and use updates. To use the push command, you would type git, space, push, space, then the name of the
+remote repository, and finally, the branch name. Once you're satisfied
+with the development and testing of your new
+shopping cart feature, the next step is to share your work by pushing
+it to GitHub. You execute the command git push origin
+feature-shopping-cart-ui, which uploads all commands
+from your local branch named feature-shopping-cart-ui
+to GitHub. Now you're ready to
+start working on the next feature so you could
+execute a pull command. The pull command updates
+your local code base with the latest changes
+from the remote repository, ensuring you have the
+most current version. To use the pull command, you would type git, space, pull, space, then the name of the
+remote repository, and finally, the branch name. You use the pull command
+git pull origin main, to pull down the latest version of the code in the repository. After pulling the
+latest updates, you can go back and use
+the branch command. This will create
+a new branch from the updated main branch, so you can start working
+on your next feature. This workflow maintains
+the integrity and continuity of the project, allowing all developers to work collaboratively
+and efficiently. In this video, you learn some of the basic Git commands and their uses in the
+development process. By mastering basic Git
+commands such as clone, branch, commit, push, and pull, developers can effectively
+manage their code, collaborate with their team, and maintain a comprehensive
+history of their projects. This leads to a more organized and efficient
+development process.

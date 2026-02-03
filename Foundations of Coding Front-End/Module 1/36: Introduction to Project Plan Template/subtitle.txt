@@ -1,0 +1,87 @@
+When working on a
+big coding project, each person handles
+different parts. But if there isn't a clear plan, problems can happen quickly. Code can clash, people might do the same work, and progress can slow
+down or even stop. This is why having a strong
+project plan is so important. In this video, we'll identify key project planning
+considerations for version control
+and collaboration. When planning a coding project, it's easy to focus on
+features and deadlines, but it's also important to plan for collaboration
+and version control. Without a solid plan for collaboration and
+version control, your project could experience
+problems like delays, merge conflicts, or even
+complete code failures. By planning for
+how your team will collaborate and
+manage code changes, you can avoid these
+kinds of problems. Let's start by exploring the considerations
+for collaboration. Coding is rarely
+a solo activity. Keens need to work together efficiently to keep
+things moving and ensure that everyone's
+contributions fit together seamlessly. A couple of key aspects to focus on our code reviews
+and documentation. These ensure the
+quality and clarity of your project as your team
+scales or new members join. One of the most
+important aspects of collaboration
+is code reviews. They're essential
+for maintaining quality across the team. Let's explore this further. Code reviews are crucial part of maintaining code quality. Code reviews are evaluations of code by other developers to ensure it meets
+quality standards and adheres to best practices. For example, during your review, a teammate might catch
+a small bug that could later cause major issues
+if left unchecked. When planning for how to
+collaborate using code reviews, you should decide if every
+pull request will require one or more reviews before being merged and how reviewers
+will provide feedback. These are essential
+decisions to answer clearly, so there's no confusion
+down the road. Now, let's move on
+to documentation, another key aspect of
+smooth collaboration. Documentation refers to
+written material that explains the
+functionality, usage, and maintenance of software
+to help developers and users understand and interact
+with the code effectively. Documentation can include how
+to set up the environment, explanations for key features, and instructions on how to
+contribute to the project. It's also important
+to plan for how the team will create and
+maintain documentation. This includes who will
+be responsible for documentation creation and where documentation will be stored. GitHub makes documentation
+easier because it allows teams to keep all
+their files in one place, including any necessary
+documentation. In GitHub, developers will
+create a README file, which is the first
+thing anyone is presented with when they
+open your repository. It's the perfect
+place to outline what your project does and
+how to get started. Now that we've covered
+collaboration, let's transition to the
+technical side: version control. Specifically, we'll explore
+branching strategies, commit frequency, and
+tagging and releases. Planning a branching
+strategy is all about deciding how your team
+will organize code. Typically, you will
+have a main branch with a stable code and feature
+branches for new development. This structure keeps work
+organized and prevents unfinished code from being
+added to the main code base. When planning a
+branching strategy, the team will determine what
+branches they will use, whether there will be a
+branch for every feature, bug fix or release, and how the team will handle merging back into
+the main branch. Establishing these rules upfront keeps your workflow smooth. Similarly, how often
+developers commit changes, known as commit frequency, keeps the project organized. Small frequent commits
+help track progress and makes it easier to debug
+if something goes wrong. Encourage your team
+to commit often. When planning decide whether daily commits are
+expected or whether team members should commit after completing specific tasks, this helps keep everyone aligned and reduces
+the risk of conflicts. Lastly, let's discuss
+tagging and releases, which helps you mark key points in your project's history. Tags in Git mark specific points in your project's history like version1.o so you can easily reference or roll
+back to a specific state. When planning for
+tagging and releases, think about when and how often you'll tag versions
+of your project. Will you tag every sprint
+or a major milestone? and how will you name your tags? Clear tagging conventions make version control much easier. GitHub has features
+that can help you plan your
+branching strategy, set up guidelines
+for code reviews, encourage frequent
+commits, and use tagging to organize
+your project versions. Planning for collaboration
+and version control is key to keeping your project
+organized and efficient. Code reviews, documentation,
+branching strategies, commit frequency, and tagging will help you and your
+team work better together. By planning early, you'll avoid problems and keep your
+project running smoothly.

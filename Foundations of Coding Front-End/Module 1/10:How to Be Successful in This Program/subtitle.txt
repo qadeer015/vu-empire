@@ -1,0 +1,76 @@
+Welcome to the course.
+In this video, we will discuss how you
+can make the most of each part of the course to
+set yourself up for success. Whether you watch the videos, complete activities, or
+work through hands-on labs. Each element has been
+designed to help you master the skills you need to become a confident and
+capable developer. The first step in every
+lesson is the videos. You'll be introduced
+to new concepts, definitions, and key ideas. Watch these carefully and take notes on the
+important points. The videos provide the
+foundational knowledge you'll need to build
+on, so don't skip them. They'll give you the context to understand everything
+that comes next. After each video,
+complete the readings. These readings
+reinforce the key ideas you've just learned and
+can serve as job aids. I recommend printing
+out the readings, or saving them for
+quick reference. They'll be extremely helpful
+when completing activities, working on projects, or just needing a refresher. They're not just supplementary. They help you apply what you've learned to real world tasks. Throughout the
+course, you'll find small but impactful activities. These quick exercises
+allow you to check your understanding of key ideas; don't rush through them. Take the time to work through these activities thoughtfully. After each, compare answers with the answer key to check how well you understand
+the material. This is your chance to
+practice without pressure. At the end of each lesson, you'll encounter
+practice quizzes. These quizzes are a great
+way to ensure you fully grasp the concepts from the
+videos and the readings. Use these as a checkpoint to assess how well you
+retain the information. If you find yourself struggling, review the videos
+and readings again. The goal is to build
+confidence and solidify your understanding
+before moving forward. When you need to
+see the material in action, screencasts guide you. These videos show
+you exactly how to work through certain
+tasks step by step. If you ever feel stuck or unsure about applying a concept, watch the screencasts
+and follow along. This hands-on guidance
+is invaluable for understanding how the
+code works in real-time, and applying what
+you've learned. At the end of each module, there will be graded quizzes. These are an important part
+of your success as they allow you to demonstrate
+mastery of the material. These quizzes build on
+the practice quizzes, and they are a great way
+to ensure you're ready to move on to more
+advanced concepts. Treat these quizzes
+as milestones. Passing them means you're fully prepared for the next challenge. The guided labs are where you'll take the concepts
+from the lessons, and apply them in a controlled
+hands-on environment. These labs will take you
+step by step through tasks, including helpful
+feedback and hints. The more effort you put into the labs, the more
+you'll get out of them. It's all about
+learning by doing, so take your time and ensure you understand each step
+before moving on. After you've completed
+the guided labs, it's time to test
+your skills with independent projects
+or You Try It!. This is where you'll
+apply everything you've learned without
+step-by-step instructions. These projects are a great way to gauge how far you've come, and to put your
+knowledge to the test. Don't worry if you
+feel challenged, that's part of the
+learning process. By completing these projects, you'll reinforce your skills
+and build confidence. Finally, at the
+end of the course, you'll complete a
+culminating hands-on project that you can use as a
+portfolio artifact. This project will showcase the skills you've gained
+throughout the course, and give you
+something tangible to present to potential employers. As you progress to the program, these portfolio
+pieces will become stronger representations of
+your hands-on experience, and understanding
+of key concepts. Success in this course comes down to using all
+the tools available. Watch the videos carefully, engage with the readings, complete the activities
+and quizzes thoughtfully, and take full advantage of the screencasts,
+labs, and projects. Each element of this
+course is designed to help you master the
+material step by step. By the end you'll have a
+solid understanding of the concepts and real projects
+to prove your skills. Remember to persist.
+Take your time, and you'll be ready for a successful career
+in development.

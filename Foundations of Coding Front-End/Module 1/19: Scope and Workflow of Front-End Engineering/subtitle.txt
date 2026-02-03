@@ -1,0 +1,73 @@
+Front-end engineering projects have
+specific project stages that ensure development projects are done
+efficiently and effectively. In this video, we will describe the scope
+of front-end engineering projects and the workflow involved in executing them. Let's start by exploring the stages
+of a front-end development project. These projects typically follow a series
+of stages that include initial planning and design, development,
+testing, and deployment. The initial planning and design stage
+is where developers begin their work. They start by gathering requirements,
+defining objectives, and creating design mockups. This stage also involves collaboration
+with stakeholders to ensure the project meets users needs. Good planning and design ensures
+a successful project by ensuring everyone involved has a clear
+vision of the end product. Next comes the development stage,
+which is where the actual coding happens. Using HTML, CSS and JavaScript,
+engineers bring the designs to life, creating interactive and
+responsive web pages. During this stage, it's crucial to follow
+best practices in coding to ensure that the code is clean,
+efficient, and maintainable. Testing follows development. Testing is critical because
+it helps identify and fix bugs before the project goes live. This includes unit testing, integration
+testing, and user acceptance testing. Engineers use testing frameworks to write
+tests that ensure the code works as expected. After testing, it's time for deployment. Deployment is the process of
+releasing the final product to users. This involves transferring code to a live
+server where it can be accessed by end users. Effective deployment strategies
+ensure that an application is reliably available and perform, as well. At every stage in the process,
+front-end developers collaborate and communicate with back-end developers. This collaboration is essential
+to ensure that the front-end and back-end systems work together seamlessly. We call this ‘integration’, and
+it's the goal of front-end and back-end collaboration. Front-end interfaces
+don't exist in isolation. They must integrate with back-end
+systems such as databases and APIs. An API, or
+Application Programming Interface, allows different software applications
+to communicate with each other. For instance,
+when a user submits a form on a website, an API might be used to send that
+data to a server for processing. Collaboration between
+front-end engineers and back-end engineers often include regular
+meetings and clear documentation. To manage the project stages and
+the collaboration, teams adopt a workflow methodology. Workflow methodologies are structured
+approaches used to organize and manage the steps and
+tasks involved in a project. Different methodologies provide
+various frameworks for collaboration, task management, and project tracking. There are several workflow
+methodologies to choose from, each with its own strengths and
+weaknesses. Waterfall methodology is a linear approach
+in which each stage of the project must be completed before proceeding to the next. This approach is straightforward,
+but it can also be inflexible. Another workflow methodology is XP,
+or Extreme Programming. This methodology emphasizes frequent
+releases, continuous feedback, and close collaboration between developers and
+users. XP focuses on improving
+software quality and responsiveness to changing requirements. Agile methodology, however, is particularly popular
+in front-end engineering. Agile is an iterative approach
+that promotes flexibility and customer collaboration. In Agile, projects are divided into
+smaller, manageable chunks called sprints, typically lasting two to four weeks. At the end of each sprint, the team
+reviews progress and plans the next steps. Agile methodologies allow front-end
+engineers to adapt quickly to changes and continuously improve their
+work based on feedback. To manage the project stages efficiently
+and develop an excellent product, front-end engineers follow
+some best practices. First, front-end engineers
+must prioritize their tasks. They organize tasks based on
+their importance and deadlines. They use project management
+tools like JIRA, Trello, or Asana to help manage and
+prioritize tasks efficiently. They also use version control
+tools to manage code changes and collaborate effectively. Code reviews are another
+important practice. Code reviews involve having other
+developers review your code to catch errors, improve code quality, and
+share knowledge with the team. This enables engineers to
+maintain code quality and share knowledge among team members. Finally, they implement deployment
+strategies such as continuous integration and continuous deployment pipelines,
+CI/CD, to automate the deployment process. This ensures that updates
+are deployed frequently and reliably. In this video, you learned about the scope
+of front-end engineering projects and some key best practices for
+workflow management. Understanding the scope and workflow of
+front-end engineering projects is critical for delivering high
+quality web applications. By following structured project stages,
+collaborating with back-end engineers to seamlessly integrate with back-end
+systems, and adhering to best practices, front-end engineers can create efficient,
+user friendly, and robust applications. [SOUND]

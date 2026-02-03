@@ -1,0 +1,790 @@
+WEBVTT
+
+1
+00:00:02.600 --> 00:00:05.200
+Suppose a teammate
+and I are building
+
+2
+00:00:05.200 --> 00:00:07.580
+a new website as my first
+development project.
+
+3
+00:00:07.580 --> 00:00:09.160
+I've set up my repository on
+
+4
+00:00:09.160 --> 00:00:11.080
+GitHub and I've
+added my first file,
+
+5
+00:00:11.080 --> 00:00:13.780
+but now I'm ready to work
+with my teammate on the site.
+
+6
+00:00:13.780 --> 00:00:16.760
+In this video, you'll learn
+how to collaborate on GitHub.
+
+7
+00:00:16.760 --> 00:00:19.900
+Let's get started. I've already
+
+8
+00:00:19.900 --> 00:00:21.260
+logged into my GitHub account,
+
+9
+00:00:21.260 --> 00:00:24.160
+and I'm on the code tab of
+the project repository.
+
+10
+00:00:24.160 --> 00:00:25.960
+This tab shows me
+all the code in
+
+11
+00:00:25.960 --> 00:00:29.010
+my repository and gives me
+options for managing it.
+
+12
+00:00:29.010 --> 00:00:32.620
+To add my teammate as a
+collaborator on my repository,
+
+13
+00:00:32.620 --> 00:00:34.495
+I'll select the settings tab.
+
+14
+00:00:34.495 --> 00:00:36.140
+Adding a collaborator on
+
+15
+00:00:36.140 --> 00:00:37.820
+GitHub allows them
+to contribute to
+
+16
+00:00:37.820 --> 00:00:40.900
+the project by pushing
+changes, managing branches,
+
+17
+00:00:40.900 --> 00:00:42.580
+reviewing code,
+and participating
+
+18
+00:00:42.580 --> 00:00:44.040
+in project discussions,
+
+19
+00:00:44.040 --> 00:00:46.100
+so I'll be sure to
+only add teammates I
+
+20
+00:00:46.100 --> 00:00:48.450
+know and want working
+on the repository.
+
+21
+00:00:48.450 --> 00:00:51.660
+Next, I'll select collaborators
+from the side menu.
+
+22
+00:00:51.660 --> 00:00:53.400
+To begin adding my teammate,
+
+23
+00:00:53.400 --> 00:00:54.955
+I'll select add people,
+
+24
+00:00:54.955 --> 00:00:56.620
+a screen will pop up to add
+
+25
+00:00:56.620 --> 00:00:58.940
+a collaborator to
+the website project.
+
+26
+00:00:58.940 --> 00:01:00.940
+Here I'll type in
+the user name of
+
+27
+00:01:00.940 --> 00:01:03.450
+my teammate, which
+is discipula0619.
+
+28
+00:01:03.450 --> 00:01:05.600
+When the correct
+user name appears,
+
+29
+00:01:05.600 --> 00:01:07.335
+I'll select it from the list.
+
+30
+00:01:07.335 --> 00:01:09.870
+Finally, I'll select the add
+
+31
+00:01:09.870 --> 00:01:12.750
+discipula0619 to the
+repository button,
+
+32
+00:01:12.750 --> 00:01:14.480
+this will send an invitation to
+
+33
+00:01:14.480 --> 00:01:17.370
+my teammate to collaborate
+on the repository.
+
+34
+00:01:17.370 --> 00:01:20.320
+Once I invite my teammate
+to the repository,
+
+35
+00:01:20.320 --> 00:01:22.180
+they need to accept
+the invitation.
+
+36
+00:01:22.180 --> 00:01:24.280
+Until they accept,
+they will show as
+
+37
+00:01:24.280 --> 00:01:26.420
+pending in my
+collaborator's dashboard.
+
+38
+00:01:26.420 --> 00:01:28.100
+Once they accept, their status
+
+39
+00:01:28.100 --> 00:01:29.765
+will change to collaborator.
+
+40
+00:01:29.765 --> 00:01:31.480
+Now that I've added my teammate,
+
+41
+00:01:31.480 --> 00:01:33.660
+I can start creating
+and tracking issues.
+
+42
+00:01:33.660 --> 00:01:36.975
+I select the issues tab
+to set up my first issue.
+
+43
+00:01:36.975 --> 00:01:39.820
+Issues in GitHub are a
+tool for tracking bugs,
+
+44
+00:01:39.820 --> 00:01:42.600
+suggesting features and
+managing project tasks.
+
+45
+00:01:42.600 --> 00:01:44.780
+The website my
+teammate and I are
+
+46
+00:01:44.780 --> 00:01:47.380
+creating needs the
+homepage to be structured.
+
+47
+00:01:47.380 --> 00:01:49.040
+I create an issue for this by
+
+48
+00:01:49.040 --> 00:01:51.235
+selecting the new issue button.
+
+49
+00:01:51.235 --> 00:01:53.880
+On the next screen,
+I'll add a title,
+
+50
+00:01:53.880 --> 00:01:56.600
+the title should be
+descriptive but concise.
+
+51
+00:01:56.600 --> 00:02:00.500
+I'll name the issue, feature
+structure homepage layout.
+
+52
+00:02:00.500 --> 00:02:02.300
+Next, I'll add a description of
+
+53
+00:02:02.300 --> 00:02:04.160
+the task and any requirements.
+
+54
+00:02:04.160 --> 00:02:06.260
+In the description
+box for this issue,
+
+55
+00:02:06.260 --> 00:02:09.895
+I'll add task, create the
+basic layout for the homepage.
+
+56
+00:02:09.895 --> 00:02:13.300
+Details, header section
+with navigation menu,
+
+57
+00:02:13.300 --> 00:02:15.860
+section with background
+image and headline,
+
+58
+00:02:15.860 --> 00:02:18.780
+content section,
+and footer section.
+
+59
+00:02:18.780 --> 00:02:21.180
+Requirements, ensure
+the layout is
+
+60
+00:02:21.180 --> 00:02:23.900
+responsive for mobile
+and desktop views.
+
+61
+00:02:23.900 --> 00:02:27.800
+I can also add images or files
+such as design documents.
+
+62
+00:02:27.800 --> 00:02:29.480
+I want to add a design document
+
+63
+00:02:29.480 --> 00:02:31.180
+that shows the
+design of the page,
+
+64
+00:02:31.180 --> 00:02:32.720
+so I select paste,
+
+65
+00:02:32.720 --> 00:02:35.040
+drop, or click to add files.
+
+66
+00:02:35.040 --> 00:02:38.120
+I select the correct
+file and select open.
+
+67
+00:02:38.120 --> 00:02:39.920
+After I've added the file,
+
+68
+00:02:39.920 --> 00:02:42.020
+I need to add details
+of the issue.
+
+69
+00:02:42.020 --> 00:02:44.840
+I select assignees and
+choose from the list.
+
+70
+00:02:44.840 --> 00:02:46.620
+I'm able to choose
+anyone that is
+
+71
+00:02:46.620 --> 00:02:48.920
+a collaborator in my repository.
+
+72
+00:02:48.920 --> 00:02:51.000
+Next, I select labels.
+
+73
+00:02:51.000 --> 00:02:54.190
+Since this is a new feature,
+I select enhancement.
+
+74
+00:02:54.190 --> 00:02:56.620
+Since I do not have any
+repository assigned
+
+75
+00:02:56.620 --> 00:02:59.320
+any projects or milestones,
+I'll skip those for now.
+
+76
+00:02:59.320 --> 00:03:00.920
+To finalize the issue,
+
+77
+00:03:00.920 --> 00:03:03.860
+I will then select,
+submit new issue.
+
+78
+00:03:03.860 --> 00:03:07.060
+Notice the issue
+appears on a new page.
+
+79
+00:03:07.060 --> 00:03:09.075
+It has a status of open,
+
+80
+00:03:09.075 --> 00:03:11.240
+it includes the
+information that I added,
+
+81
+00:03:11.240 --> 00:03:13.220
+as well as an area for comments.
+
+82
+00:03:13.220 --> 00:03:16.120
+It also includes a section
+called development that
+
+83
+00:03:16.120 --> 00:03:17.800
+allows me or a collaborator
+
+84
+00:03:17.800 --> 00:03:20.140
+to create a branch
+for this issue.
+
+85
+00:03:20.140 --> 00:03:22.460
+Now, suppose my
+teammate has done
+
+86
+00:03:22.460 --> 00:03:24.000
+some development
+work on the issue,
+
+87
+00:03:24.000 --> 00:03:25.460
+they committed their code and
+
+88
+00:03:25.460 --> 00:03:27.680
+are ready to create
+a pull request.
+
+89
+00:03:27.680 --> 00:03:30.200
+A pull request in
+GitHub is a proposal
+
+90
+00:03:30.200 --> 00:03:32.820
+to merge changes from
+one branch into another,
+
+91
+00:03:32.820 --> 00:03:34.240
+allowing for code review
+
+92
+00:03:34.240 --> 00:03:36.735
+and discussion
+before integration.
+
+93
+00:03:36.735 --> 00:03:39.350
+I'm going to switch
+over to my teammates
+
+94
+00:03:39.350 --> 00:03:41.340
+account and create
+a pull request.
+
+95
+00:03:41.340 --> 00:03:45.090
+To do so, I go to the pull
+request tab then I can
+
+96
+00:03:45.090 --> 00:03:46.950
+select compare and
+pull requests that are
+
+97
+00:03:46.950 --> 00:03:49.170
+featured for the new
+branch that was created.
+
+98
+00:03:49.170 --> 00:03:51.130
+In a pull request, the base is
+
+99
+00:03:51.130 --> 00:03:53.250
+the branch where you want
+to merge your changes,
+
+100
+00:03:53.250 --> 00:03:55.010
+and the compare is
+the branch that
+
+101
+00:03:55.010 --> 00:03:57.710
+contains the changes you
+want to merge into the base.
+
+102
+00:03:57.710 --> 00:04:00.490
+I double check that the
+base branch is main,
+
+103
+00:04:00.490 --> 00:04:02.270
+and the compare
+branch is the branch
+
+104
+00:04:02.270 --> 00:04:05.760
+my teammate was working
+on, descipula branch.
+
+105
+00:04:05.760 --> 00:04:08.430
+Then I add a clear
+descriptive title like
+
+106
+00:04:08.430 --> 00:04:11.890
+feature add header section
+with navigation menu.
+
+107
+00:04:11.890 --> 00:04:14.310
+Next, I'll add a description,
+
+108
+00:04:14.310 --> 00:04:16.520
+the description should
+include a summary,
+
+109
+00:04:16.520 --> 00:04:20.040
+details, and any testing
+criteria for a pull request.
+
+110
+00:04:20.040 --> 00:04:22.900
+For this pull request,
+I'll add summary,
+
+111
+00:04:22.900 --> 00:04:24.980
+this pull request
+adds a header section
+
+112
+00:04:24.980 --> 00:04:27.340
+with a navigation menu
+to the home page.
+
+113
+00:04:27.340 --> 00:04:31.280
+Details create a fixed
+header with the sites logo,
+
+114
+00:04:31.280 --> 00:04:34.640
+add a responsive navigation
+menu with links to home,
+
+115
+00:04:34.640 --> 00:04:38.035
+about, services, and
+contact sections.
+
+116
+00:04:38.035 --> 00:04:40.770
+Testing, ensure the header
+
+117
+00:04:40.770 --> 00:04:43.090
+is visible and fixed at
+the top of the page.
+
+118
+00:04:43.090 --> 00:04:45.150
+Verify that the navigation link
+
+119
+00:04:45.150 --> 00:04:47.410
+scroll to the appropriate
+sections on the page,
+
+120
+00:04:47.410 --> 00:04:49.070
+check the responsiveness of
+
+121
+00:04:49.070 --> 00:04:51.270
+the header on different
+screen sizes.
+
+122
+00:04:51.270 --> 00:04:53.690
+Then I'll double check
+who the reviewer is.
+
+123
+00:04:53.690 --> 00:04:57.560
+I verify that it is my
+account, learner 0615.
+
+124
+00:04:57.560 --> 00:05:00.850
+I select request to
+request the review.
+
+125
+00:05:00.850 --> 00:05:03.830
+Code reviews are important
+for maintaining code quality,
+
+126
+00:05:03.830 --> 00:05:06.540
+so it's important to have
+someone review your code.
+
+127
+00:05:06.540 --> 00:05:08.615
+Finally, I select create
+
+128
+00:05:08.615 --> 00:05:11.230
+pull request to
+create the request.
+
+129
+00:05:11.410 --> 00:05:14.170
+Now, I'll switch back
+to my GitHub account
+
+130
+00:05:14.170 --> 00:05:16.230
+to review the code and
+merge the changes.
+
+131
+00:05:16.230 --> 00:05:18.050
+I've received a
+notification that
+
+132
+00:05:18.050 --> 00:05:20.870
+my teammate has requested a
+review of their pull request.
+
+133
+00:05:20.870 --> 00:05:23.905
+I select, add your review
+to begin my code review.
+
+134
+00:05:23.905 --> 00:05:26.610
+I read through the new
+code and do a review.
+
+135
+00:05:26.610 --> 00:05:29.630
+I'm checking for code
+correctness, readability,
+
+136
+00:05:29.630 --> 00:05:31.570
+adherence to coding standards,
+
+137
+00:05:31.570 --> 00:05:33.290
+potential impact, and
+
+138
+00:05:33.290 --> 00:05:35.650
+the impact on existing
+functionality.
+
+139
+00:05:35.650 --> 00:05:37.490
+I noticed that the
+code is accurate,
+
+140
+00:05:37.490 --> 00:05:39.050
+but my teammate did not add
+
+141
+00:05:39.050 --> 00:05:42.460
+a shop navigation item to
+the top level navigation.
+
+142
+00:05:42.460 --> 00:05:45.730
+I select review changes
+to leave feedback.
+
+143
+00:05:45.730 --> 00:05:47.890
+I will also add a
+detailed comment
+
+144
+00:05:47.890 --> 00:05:49.810
+about the missing
+navigation item.
+
+145
+00:05:49.810 --> 00:05:52.895
+Since the rest of the code is
+correct, I select approve.
+
+146
+00:05:52.895 --> 00:05:55.310
+This will submit the
+feedback to my teammate,
+
+147
+00:05:55.310 --> 00:05:56.710
+but also approve merging
+
+148
+00:05:56.710 --> 00:05:59.090
+the existing changes
+to the main branch.
+
+149
+00:05:59.090 --> 00:06:00.890
+Merging is the process of
+
+150
+00:06:00.890 --> 00:06:03.730
+combining changes from
+one branch into another,
+
+151
+00:06:03.730 --> 00:06:06.930
+typically, integrating new
+code into the main branch.
+
+152
+00:06:06.930 --> 00:06:09.485
+Then I select the
+submit review button
+
+153
+00:06:09.485 --> 00:06:11.780
+this takes me back
+to the pull request.
+
+154
+00:06:11.780 --> 00:06:13.690
+Even though I
+approve the changes,
+
+155
+00:06:13.690 --> 00:06:16.280
+it did not automatically
+merge the changes.
+
+156
+00:06:16.280 --> 00:06:18.710
+To merge the changes,
+I select merge,
+
+157
+00:06:18.710 --> 00:06:22.830
+pull request, and then
+select, confirm merge.
+
+158
+00:06:22.910 --> 00:06:25.510
+There's now a button
+to delete branch,
+
+159
+00:06:25.510 --> 00:06:27.230
+but I won't do that.
+
+160
+00:06:30.230 --> 00:06:32.550
+Today, you learned
+how to collaborate
+
+161
+00:06:32.550 --> 00:06:34.190
+on a GitHub project from
+
+162
+00:06:34.190 --> 00:06:36.270
+adding collaborators
+and managing issues
+
+163
+00:06:36.270 --> 00:06:37.490
+to creating pull requests,
+
+164
+00:06:37.490 --> 00:06:39.450
+and conducting code reviews.
+
+165
+00:06:39.450 --> 00:06:42.170
+These tools and processes
+are essential for
+
+166
+00:06:42.170 --> 00:06:44.230
+effective teamwork
+and maintaining
+
+167
+00:06:44.230 --> 00:06:47.310
+code quality in any
+development project.

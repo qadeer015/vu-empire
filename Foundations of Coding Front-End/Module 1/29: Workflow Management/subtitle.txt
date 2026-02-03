@@ -1,0 +1,107 @@
+Creating exceptional
+user interactions with your web application requires the coordination of many parts, including people in systems. Keeping all these parts moving through the production process smoothly requires efficient management tools and processes. In this video, you'll learn methods for effective
+workflow management. Let's start with a definition
+of workflow management. Workflow management
+is the process of coordinating tasks, tools, and team members to ensure efficient and effective
+project completion. One of the benefits of
+workflow management is that it facilitates the coordination
+automation of work. It also enables work to
+be shared among the team. Workflow management
+also provides protection against
+issues becoming serious. Let's now explore one of the
+most critical components of workflow management,
+Version Control Systems. These systems act as the backbone of your
+development process, ensuring that all team
+members are in sync, and that your project remains
+stable as it evolves. Version control systems
+or VCSs, like GitHub, help development teams store versions of changes
+in their code, track history, and share their code with
+other team members. A version control
+system serves as a storage depot or
+repository for all the code, images, videos, and other assets a front end team produces. It also allows the team
+to track code changes and enables the team to revert to previous versions of the
+code if it's needed. Imagine a team of front-end developers working
+on a new website. Each developer is assigned
+different parts of the site. One is handling the home page, another the contact page, and another the navigation menu. Using GitHub, they all can work simultaneously on their
+respective parts. When the navigation
+menu developer accidentally introduces a bug, they can use GitHub to revert to a previous version without
+affecting the other's work. Meanwhile, they can check on each other's changes and
+collaborate seamlessly, ensuring the entire
+project stays in sync. Version control systems are primarily used to
+manage a code base, but modern VCSs can also help teams automate parts of
+the development process. Teams need to be able
+to integrate and deploy their code when it
+reaches certain milestones. While version control systems
+help you manage all of the assets involved in a project and can help you manage changes, it's source control
+integration that manages a much more specific
+subset of your work, which is the source code itself. Source control integration is the process of
+combining code changes from multiple developers into a shared project repository, ensuring that these changes
+work together correctly. Once code from all developers
+is integrated, debugged, and complete, it's ready
+to be deployed for users. Source control systems
+can deploy directly to the systems that deliver
+the application to users. Developers can use
+source control tools to manually integrate and
+deploy source code. However, modern software systems can automate these processes and continuously integrate
+and deploy code as it is put into the
+version control system. These systems or pipelines are called continuous
+integration and continuous deployment
+pipelines or CICD pipelines. CICD pipelines automate
+the testing, integration, and deployment of code, ensuring that new
+changes are quickly and reliably delivered to users. These tools and systems create an environment that
+can move quickly, deliver value to users, and respond rapidly to a
+changing digital environment. Developers use the term agile to describe this
+development method. Agile methodology is a
+process of developing software that includes an
+iterative development approach, continuous feedback, and
+flexible responses to change. This approach enhances
+collaboration and delivers value
+incrementally. The agile method and the
+tools that enable it were developed to accommodate
+today's continuously connected, rapidly moving
+digital environment. The agile method has many
+characteristics that make it an ideal approach for
+developing modern software. One characteristic of agile
+is iterative development. In this approach,
+agile teams develop software and sprints typically
+over a two week period. They work on small,
+manageable pieces and deliver functional increments
+at the end of each sprint. This allows for regular
+assessment and allows the team to rapidly adjust
+the project's direction. Agile also emphasizes
+continuous feedback from stakeholders and end users. This feedback loop helps the
+developers to ensure that the product meets
+the user's needs and allows for quick
+course corrections. Agile teams can be
+flexible and embrace changes in requirements even late in the development process. This flexibility ensures that the final application is continuously relevant
+and valuable. The agile method offers
+enhanced collaboration as it encourages
+close collaboration among all team members,
+including developers, testers, product owners,
+and stakeholders. Agile also includes
+meetings like regular stand-ups,
+sprint planning, and retrospectives, to examine past work and facilitate
+collaboration. Version control
+systems like GitHub are integral to
+agile development. They enable multiple team
+members to share code, track changes, and
+manage versions. This ensures that code
+is continuously up to date and that conflicts can
+be resolved efficiently. Agile teams use
+continuous integration to ensure that the code is
+always ready to be deployed. They also continuously deploy code to automate the
+deployment process, allowing new features
+and fixes to be released frequently
+and reliably. Agile uses self organizing
+teams where teams organize around the
+project's needs and the skills of
+the team members. Team members are empowered
+to make decisions on most aspects of the
+development process. This autonomy
+fosters innovation, accountability, and a sense of ownership among
+the team members. In this video, you learned methods for effective
+workflow management, including version control,
+continuous integration, and deployment of code
+and agile methodologies. Understanding
+workflow management will make you a more effective contributor as you continue on this journey to
+becoming a developer.

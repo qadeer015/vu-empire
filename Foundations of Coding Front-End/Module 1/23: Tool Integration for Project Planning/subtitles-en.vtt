@@ -1,0 +1,471 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.669
+[MUSIC]
+
+2
+00:00:07.669 --> 00:00:12.838
+Today, we use many technologies to help us
+get things done, both at home and at work.
+
+3
+00:00:12.838 --> 00:00:14.169
+Many of us have devices and
+
+4
+00:00:14.169 --> 00:00:18.283
+applications that remind us to be more
+active if we've been sitting too long, or
+
+5
+00:00:18.283 --> 00:00:23.070
+help us keep track of shopping lists so
+we don't forget to get the things we need.
+
+6
+00:00:23.070 --> 00:00:27.668
+We've integrated these tools into our
+lives to keep us healthy and on track
+
+7
+00:00:27.668 --> 00:00:30.084
+to complete the things we need to get done.
+
+8
+00:00:30.084 --> 00:00:34.575
+Just as these tools help manage our
+personal lives there are tools to help you
+
+9
+00:00:34.575 --> 00:00:37.070
+manage projects at work.
+
+10
+00:00:37.070 --> 00:00:39.915
+In this video, you'll learn
+about tools and techniques for
+
+11
+00:00:39.915 --> 00:00:42.390
+project planning integration.
+
+12
+00:00:42.390 --> 00:00:45.950
+Let's start by defining what
+project planning tools are.
+
+13
+00:00:45.950 --> 00:00:49.513
+Project planning tools are software
+applications that assist in
+
+14
+00:00:49.513 --> 00:00:53.790
+the organization, management, and
+tracking of projects and tasks.
+
+15
+00:00:53.790 --> 00:00:59.137
+Project planning tools streamline and
+manage tasks, enhance team collaboration,
+
+16
+00:00:59.137 --> 00:01:04.125
+and improve the team's visibility into and
+tracking of a project's progress.
+
+17
+00:01:04.125 --> 00:01:09.060
+Using these tools effectively helps team
+members complete projects on time and
+
+18
+00:01:09.060 --> 00:01:10.630
+within scope.
+
+19
+00:01:10.630 --> 00:01:12.768
+Let's explore some examples
+of these tools and
+
+20
+00:01:12.768 --> 00:01:14.918
+how they help guide
+a project in more detail,
+
+21
+00:01:14.918 --> 00:01:21.110
+starting with Jira. Jira is a powerful
+project planning and issue-tracking tool.
+
+22
+00:01:21.110 --> 00:01:24.522
+Users can create tasks,
+assign them to team members,
+
+23
+00:01:24.522 --> 00:01:30.110
+discuss issues with the team, and
+run robust reports on project status.
+
+24
+00:01:30.110 --> 00:01:33.863
+Some key advantages to using Jira come
+from its ability to work with other
+
+25
+00:01:33.863 --> 00:01:35.550
+applications.
+
+26
+00:01:35.550 --> 00:01:39.066
+By using Jira integrations,
+teams can manage tasks directly
+
+27
+00:01:39.066 --> 00:01:44.190
+from the tools they're already using
+without having to switch between tools.
+
+28
+00:01:44.190 --> 00:01:48.514
+Software developers can integrate Jira
+into Visual Studio Code to manage work
+
+29
+00:01:48.514 --> 00:01:51.010
+items right from the tool.
+
+30
+00:01:51.010 --> 00:01:53.859
+Similarly, Jira integrates with GitHub,
+
+31
+00:01:53.859 --> 00:01:57.130
+a tool teams use to
+manage their source code.
+
+32
+00:01:57.130 --> 00:02:01.659
+By using Jira and GitHub, teams can
+easily link issues and make requests for
+
+33
+00:02:01.659 --> 00:02:02.310
+new code.
+
+34
+00:02:03.330 --> 00:02:06.861
+Jira also integrates with
+the communication tools like Slack and
+
+35
+00:02:06.861 --> 00:02:09.950
+Microsoft Teams to track issues and
+get notifications.
+
+36
+00:02:11.130 --> 00:02:15.798
+Jira can be an ideal tool for planning and
+managing large and complex projects, but
+
+37
+00:02:15.798 --> 00:02:18.265
+if your project is smaller or
+less complex,
+
+38
+00:02:18.265 --> 00:02:21.970
+other tools like Trello might
+be better suited for it.
+
+39
+00:02:21.970 --> 00:02:26.780
+Trello is a user friendly project
+management tool that uses boards, lists,
+
+40
+00:02:26.780 --> 00:02:28.630
+and cards to organize tasks.
+
+41
+00:02:30.130 --> 00:02:34.466
+Trello's card and board system makes
+it easy to visualize project tasks and
+
+42
+00:02:34.466 --> 00:02:35.610
+progress.
+
+43
+00:02:35.610 --> 00:02:39.603
+Similar to Jira, Trello integrates
+with development environments so
+
+44
+00:02:39.603 --> 00:02:43.738
+teams can manage tasks without having
+to switch between multiple tools.
+
+45
+00:02:43.738 --> 00:02:47.886
+Integration with tools like Slack and
+GitHub enhance collaboration and
+
+46
+00:02:47.886 --> 00:02:50.130
+streamline the project's workflow.
+
+47
+00:02:51.390 --> 00:02:55.507
+For example, a new GitHub issue can
+automatically create a new Trello card,
+
+48
+00:02:55.507 --> 00:02:58.110
+helping the team to track it visually.
+
+49
+00:02:58.110 --> 00:03:02.770
+Slack users can share Trello card updates,
+comments, and notifications.
+
+50
+00:03:02.870 --> 00:03:07.534
+For teams that need more of Jira's power but
+prefer Trello's usability,
+
+51
+00:03:07.534 --> 00:03:09.534
+Asana could be a good fit.
+
+52
+00:03:09.534 --> 00:03:14.218
+Asana is a versatile project management
+tool that teams use to coordinate and
+
+53
+00:03:14.218 --> 00:03:15.452
+manage their work.
+
+54
+00:03:15.452 --> 00:03:20.010
+Like Jira and Trello, Asana's ability to
+integrate with development environments
+
+55
+00:03:20.010 --> 00:03:23.650
+helps teams track tasks in
+their existing workflow.
+
+56
+00:03:23.650 --> 00:03:28.319
+Integration with version control systems
+like GitHub and communications tools like
+
+57
+00:03:28.319 --> 00:03:32.550
+Slack ensures that updates are
+synchronized, keeping everyone informed.
+
+58
+00:03:33.570 --> 00:03:39.360
+Users can link GitHub commits, branches,
+and pull requests to Asana tasks.
+
+59
+00:03:39.360 --> 00:03:43.848
+By linking Asana with Slack, users can
+share it when a task has been created and
+
+60
+00:03:43.848 --> 00:03:45.140
+when it gets updated.
+
+61
+00:03:46.200 --> 00:03:49.249
+Asana can also be embedded
+in Microsoft Teams so
+
+62
+00:03:49.249 --> 00:03:53.607
+users can manage Asana tasks in
+their team without leaving the app.
+
+63
+00:03:53.607 --> 00:03:58.177
+Lets use a real-world example to further
+illustrate how an organization would
+
+64
+00:03:58.177 --> 00:04:01.724
+integrate a project planning
+tool with other tools they use.
+
+65
+00:04:01.724 --> 00:04:03.920
+Consider a company called TechFlow.
+
+66
+00:04:03.920 --> 00:04:08.205
+They start this process by choosing
+a tool that fits their needs.
+
+67
+00:04:08.205 --> 00:04:12.215
+TechFlow needs robust tracking
+functionality and extensive integration
+
+68
+00:04:12.215 --> 00:04:16.094
+options because its teams use many
+different tools such as VS code,
+
+69
+00:04:16.094 --> 00:04:19.010
+GitHub, Slack, and Microsoft Teams.
+
+70
+00:04:19.010 --> 00:04:23.170
+After careful consideration,
+TechFlow chooses Jira.
+
+71
+00:04:23.170 --> 00:04:26.010
+Next, they work to set
+up the integrations.
+
+72
+00:04:26.010 --> 00:04:30.900
+They do this by connecting their accounts
+from other tools, like GitHub, with Jira.
+
+73
+00:04:30.900 --> 00:04:35.325
+In addition, TechFlow will set up
+communication between the tools to
+
+74
+00:04:35.325 --> 00:04:39.000
+sync issues and updates between Jira and
+its other tools.
+
+75
+00:04:39.000 --> 00:04:43.813
+With their tools integrated with Jira,
+the TechFlow team defines clear workflow
+
+76
+00:04:43.813 --> 00:04:47.659
+processes to ensure the integrated
+tools are used effectively.
+
+77
+00:04:47.659 --> 00:04:51.859
+They define how tasks will be created,
+assigned, and tracked.
+
+78
+00:04:51.859 --> 00:04:56.224
+As a specific example of this, the
+TechFlow team will define a process where
+
+79
+00:04:56.224 --> 00:04:59.291
+all GitHub issues
+are automatically logged in Jira,
+
+80
+00:04:59.291 --> 00:05:03.471
+assigned to the relevant team members,
+and tracked until completion.
+
+81
+00:05:03.471 --> 00:05:07.943
+Then, TechFlow conducts training sessions
+to familiarize the team with Jira and
+
+82
+00:05:07.943 --> 00:05:10.690
+its integration with tools like GitHub.
+
+83
+00:05:10.690 --> 00:05:15.290
+The training helps the team know how to
+use the integrated tools effectively.
+
+84
+00:05:15.290 --> 00:05:19.650
+Finally, TechFlow implements a strategy
+to regularly monitor its integrations and
+
+85
+00:05:19.650 --> 00:05:21.370
+adjust them as needed.
+
+86
+00:05:21.370 --> 00:05:25.969
+As an example, TechFlow will regularly
+review its Jira-GitHub integration,
+
+87
+00:05:25.969 --> 00:05:29.950
+making adjustments to optimize
+task tracking and collaboration.
+
+88
+00:05:29.950 --> 00:05:34.082
+By regularly monitoring the integration,
+they can adjust
+
+89
+00:05:34.082 --> 00:05:38.000
+it as necessary to improve efficiency and
+address any issues.
+
+90
+00:05:40.530 --> 00:05:43.311
+In this video, you learned about tools and
+techniques for
+
+91
+00:05:43.311 --> 00:05:44.908
+project planning integration.
+
+92
+00:05:44.908 --> 00:05:48.822
+By integrating project planning
+tools like Jira, Trello, and
+
+93
+00:05:48.822 --> 00:05:53.026
+Asana with development environments
+like VS code and Atom, and
+
+94
+00:05:53.026 --> 00:05:56.373
+communication tools like
+Microsoft Teams and Slack,
+
+95
+00:05:56.373 --> 00:05:59.957
+project teams can significantly
+enhance their task management,
+
+96
+00:05:59.957 --> 00:06:02.203
+collaboration, and project tracking.
+
+97
+00:06:02.203 --> 00:06:05.730
+Using these tools will also help
+to ensure smoother workflows and
+
+98
+00:06:05.730 --> 00:06:07.471
+successful project outcomes.
+
+99
+00:06:08.000 --> 00:06:09.971
+[MUSIC]

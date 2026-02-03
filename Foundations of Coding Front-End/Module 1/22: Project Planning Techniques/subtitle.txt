@@ -1,0 +1,62 @@
+Imagine you're tasked when
+navigating a complex maze. At every turn, there's
+a decision to be made, and each choice you
+make could either lead you closer to your
+goal or further away. Now think of front-end
+development as that maze with each project bringing
+its own twists and turns. Without a clear
+plan, you might find yourself lost in a tangle
+of tasks and deadlines. That's where project
+planning comes in. It serves as your roadmap, guiding you through each
+phase of the project. In this video, we will
+outline the phases of front-end development
+project planning. The first phase in
+project planning is to define the
+project requirements. First, let's break down what 'project requirements'
+really mean. A project's requirements are the outcomes that must
+be met and the tasks that must be completed to ensure its success and
+completion on time. You define your
+project's requirements by asking questions like, "What's this application
+going to do?", "Who will be using the front-end?", and "What technology does
+the project need?" Responses to questions like these define and shape the
+direction of the project. When you define project
+requirements correctly, you align the project with client expectations
+and user needs. This helps to ensure that
+the final product is both functional for the user and
+satisfactory to the client. With our requirements clear, the next phase is
+translating these into actionable
+project objectives. Project objectives
+are specific results that a person or a process aims to achieve within a time frame and with
+available resources. Clear project objectives provide a roadmap for the project. They help to focus the
+project team's efforts and allocate resources
+effectively. After defining the
+project requirements and setting its objectives, we can begin creating
+timelines to plan how we get the
+project completed on time. Creating timelines
+involves scheduling all tasks and milestones
+from start to finish. This way, the team
+can keep track of progress and stay on
+top of deadlines. By setting up timelines, everyone will be clear on when the front-end work
+needs to be finished. Timelines drive the
+completion of tasks and establish when
+specific deliverables are expected to be completed. We've gone through the
+first three phases- defining requirements, setting objectives, and
+creating timelines. Now, we can figure out
+the project resources we will need in the last phase. What do we mean by
+"project resources"? Project resources are
+the assets, materials, and human capital needed to complete a project successfully. Identifying the
+resources a project will need includes
+determining what tools, technologies, and team members are required to
+complete the project. As an organization
+evaluates resource needs, it may need to select the
+appropriate framework for building the website, determine the
+number of front-end developers it will need, and ensure that budgets for infrastructure and marketing
+have been allocated. Proper resource
+allocation can ensure the project has everything
+it needs to succeed, reducing the risk of
+resource shortages , and budget overruns. In this video, you learned about the four phases of
+front-end project planning. By following these phases, you can ensure a smooth and
+successful project execution. Thorough project
+planning is essential for aligning with
+client expectations, meeting user needs, and
+achieving project objectives.
