@@ -1,0 +1,735 @@
+WEBVTT
+
+1
+00:00:06.920 --> 00:00:09.980
+Creating exceptional
+user interactions with
+
+2
+00:00:09.980 --> 00:00:11.820
+your web application requires
+
+3
+00:00:11.820 --> 00:00:13.360
+the coordination of many parts,
+
+4
+00:00:13.360 --> 00:00:15.280
+including people in systems.
+
+5
+00:00:15.280 --> 00:00:16.960
+Keeping all these parts moving
+
+6
+00:00:16.960 --> 00:00:18.160
+through the production process
+
+7
+00:00:18.160 --> 00:00:19.560
+smoothly requires efficient
+
+8
+00:00:19.560 --> 00:00:21.720
+management tools and processes.
+
+9
+00:00:21.720 --> 00:00:23.560
+In this video, you'll learn
+
+10
+00:00:23.560 --> 00:00:26.175
+methods for effective
+workflow management.
+
+11
+00:00:26.175 --> 00:00:29.490
+Let's start with a definition
+of workflow management.
+
+12
+00:00:29.490 --> 00:00:31.630
+Workflow management
+is the process
+
+13
+00:00:31.630 --> 00:00:33.590
+of coordinating tasks, tools,
+
+14
+00:00:33.590 --> 00:00:35.110
+and team members to ensure
+
+15
+00:00:35.110 --> 00:00:37.950
+efficient and effective
+project completion.
+
+16
+00:00:37.950 --> 00:00:40.650
+One of the benefits of
+workflow management is that it
+
+17
+00:00:40.650 --> 00:00:43.490
+facilitates the coordination
+automation of work.
+
+18
+00:00:43.490 --> 00:00:46.990
+It also enables work to
+be shared among the team.
+
+19
+00:00:46.990 --> 00:00:49.270
+Workflow management
+also provides
+
+20
+00:00:49.270 --> 00:00:52.040
+protection against
+issues becoming serious.
+
+21
+00:00:52.040 --> 00:00:54.970
+Let's now explore one of the
+most critical components of
+
+22
+00:00:54.970 --> 00:00:58.290
+workflow management,
+Version Control Systems.
+
+23
+00:00:58.290 --> 00:01:00.070
+These systems act as
+
+24
+00:01:00.070 --> 00:01:01.990
+the backbone of your
+development process,
+
+25
+00:01:01.990 --> 00:01:04.070
+ensuring that all team
+members are in sync,
+
+26
+00:01:04.070 --> 00:01:07.455
+and that your project remains
+stable as it evolves.
+
+27
+00:01:07.455 --> 00:01:11.350
+Version control systems
+or VCSs, like GitHub,
+
+28
+00:01:11.350 --> 00:01:12.810
+help development teams store
+
+29
+00:01:12.810 --> 00:01:14.890
+versions of changes
+in their code,
+
+30
+00:01:14.890 --> 00:01:16.750
+track history, and share
+
+31
+00:01:16.750 --> 00:01:18.685
+their code with
+other team members.
+
+32
+00:01:18.685 --> 00:01:20.910
+A version control
+system serves as
+
+33
+00:01:20.910 --> 00:01:23.810
+a storage depot or
+repository for all the code,
+
+34
+00:01:23.810 --> 00:01:26.370
+images, videos, and other assets
+
+35
+00:01:26.370 --> 00:01:28.365
+a front end team produces.
+
+36
+00:01:28.365 --> 00:01:31.520
+It also allows the team
+to track code changes and
+
+37
+00:01:31.520 --> 00:01:33.120
+enables the team to revert to
+
+38
+00:01:33.120 --> 00:01:35.960
+previous versions of the
+code if it's needed.
+
+39
+00:01:35.960 --> 00:01:38.000
+Imagine a team of front-end
+
+40
+00:01:38.000 --> 00:01:40.580
+developers working
+on a new website.
+
+41
+00:01:40.580 --> 00:01:43.880
+Each developer is assigned
+different parts of the site.
+
+42
+00:01:43.880 --> 00:01:45.800
+One is handling the home page,
+
+43
+00:01:45.800 --> 00:01:47.560
+another the contact page,
+
+44
+00:01:47.560 --> 00:01:50.205
+and another the navigation menu.
+
+45
+00:01:50.205 --> 00:01:52.820
+Using GitHub, they all can work
+
+46
+00:01:52.820 --> 00:01:55.520
+simultaneously on their
+respective parts.
+
+47
+00:01:55.520 --> 00:01:57.760
+When the navigation
+menu developer
+
+48
+00:01:57.760 --> 00:01:59.600
+accidentally introduces a bug,
+
+49
+00:01:59.600 --> 00:02:01.420
+they can use GitHub to revert to
+
+50
+00:02:01.420 --> 00:02:05.080
+a previous version without
+affecting the other's work.
+
+51
+00:02:05.080 --> 00:02:07.180
+Meanwhile, they can check on
+
+52
+00:02:07.180 --> 00:02:09.620
+each other's changes and
+collaborate seamlessly,
+
+53
+00:02:09.620 --> 00:02:12.780
+ensuring the entire
+project stays in sync.
+
+54
+00:02:13.030 --> 00:02:15.290
+Version control systems are
+
+55
+00:02:15.290 --> 00:02:17.210
+primarily used to
+manage a code base,
+
+56
+00:02:17.210 --> 00:02:19.270
+but modern VCSs can also help
+
+57
+00:02:19.270 --> 00:02:22.510
+teams automate parts of
+the development process.
+
+58
+00:02:22.510 --> 00:02:25.010
+Teams need to be able
+to integrate and
+
+59
+00:02:25.010 --> 00:02:28.070
+deploy their code when it
+reaches certain milestones.
+
+60
+00:02:28.070 --> 00:02:30.990
+While version control systems
+help you manage all of
+
+61
+00:02:30.990 --> 00:02:32.510
+the assets involved in a project
+
+62
+00:02:32.510 --> 00:02:34.350
+and can help you manage changes,
+
+63
+00:02:34.350 --> 00:02:36.330
+it's source control
+integration that
+
+64
+00:02:36.330 --> 00:02:39.030
+manages a much more specific
+subset of your work,
+
+65
+00:02:39.030 --> 00:02:41.830
+which is the source code itself.
+
+66
+00:02:42.340 --> 00:02:44.760
+Source control integration is
+
+67
+00:02:44.760 --> 00:02:46.560
+the process of
+combining code changes
+
+68
+00:02:46.560 --> 00:02:48.160
+from multiple developers into
+
+69
+00:02:48.160 --> 00:02:50.120
+a shared project repository,
+
+70
+00:02:50.120 --> 00:02:53.640
+ensuring that these changes
+work together correctly.
+
+71
+00:02:53.640 --> 00:02:57.800
+Once code from all developers
+is integrated, debugged,
+
+72
+00:02:57.800 --> 00:03:01.840
+and complete, it's ready
+to be deployed for users.
+
+73
+00:03:01.840 --> 00:03:04.860
+Source control systems
+can deploy directly to
+
+74
+00:03:04.860 --> 00:03:08.460
+the systems that deliver
+the application to users.
+
+75
+00:03:08.850 --> 00:03:11.970
+Developers can use
+source control tools to
+
+76
+00:03:11.970 --> 00:03:14.810
+manually integrate and
+deploy source code.
+
+77
+00:03:14.810 --> 00:03:17.110
+However, modern software systems
+
+78
+00:03:17.110 --> 00:03:19.110
+can automate these processes and
+
+79
+00:03:19.110 --> 00:03:21.250
+continuously integrate
+and deploy code
+
+80
+00:03:21.250 --> 00:03:24.370
+as it is put into the
+version control system.
+
+81
+00:03:24.370 --> 00:03:26.770
+These systems or pipelines are
+
+82
+00:03:26.770 --> 00:03:28.430
+called continuous
+integration and
+
+83
+00:03:28.430 --> 00:03:32.990
+continuous deployment
+pipelines or CICD pipelines.
+
+84
+00:03:32.990 --> 00:03:36.730
+CICD pipelines automate
+the testing, integration,
+
+85
+00:03:36.730 --> 00:03:38.070
+and deployment of code,
+
+86
+00:03:38.070 --> 00:03:39.910
+ensuring that new
+changes are quickly
+
+87
+00:03:39.910 --> 00:03:42.555
+and reliably delivered to users.
+
+88
+00:03:42.555 --> 00:03:44.980
+These tools and systems create
+
+89
+00:03:44.980 --> 00:03:46.800
+an environment that
+can move quickly,
+
+90
+00:03:46.800 --> 00:03:48.460
+deliver value to users,
+
+91
+00:03:48.460 --> 00:03:52.245
+and respond rapidly to a
+changing digital environment.
+
+92
+00:03:52.245 --> 00:03:54.400
+Developers use the term
+
+93
+00:03:54.400 --> 00:03:57.460
+agile to describe this
+development method.
+
+94
+00:03:57.460 --> 00:04:00.700
+Agile methodology is a
+process of developing
+
+95
+00:04:00.700 --> 00:04:03.680
+software that includes an
+iterative development approach,
+
+96
+00:04:03.680 --> 00:04:07.940
+continuous feedback, and
+flexible responses to change.
+
+97
+00:04:07.940 --> 00:04:10.820
+This approach enhances
+collaboration
+
+98
+00:04:10.820 --> 00:04:13.625
+and delivers value
+incrementally.
+
+99
+00:04:13.625 --> 00:04:16.950
+The agile method and the
+tools that enable it were
+
+100
+00:04:16.950 --> 00:04:19.650
+developed to accommodate
+today's continuously connected,
+
+101
+00:04:19.650 --> 00:04:21.970
+rapidly moving
+digital environment.
+
+102
+00:04:21.970 --> 00:04:24.950
+The agile method has many
+characteristics that make it
+
+103
+00:04:24.950 --> 00:04:28.550
+an ideal approach for
+developing modern software.
+
+104
+00:04:28.550 --> 00:04:32.730
+One characteristic of agile
+is iterative development.
+
+105
+00:04:32.730 --> 00:04:35.190
+In this approach,
+agile teams develop
+
+106
+00:04:35.190 --> 00:04:38.690
+software and sprints typically
+over a two week period.
+
+107
+00:04:38.690 --> 00:04:41.530
+They work on small,
+manageable pieces and
+
+108
+00:04:41.530 --> 00:04:45.010
+deliver functional increments
+at the end of each sprint.
+
+109
+00:04:45.010 --> 00:04:48.050
+This allows for regular
+assessment and allows
+
+110
+00:04:48.050 --> 00:04:51.550
+the team to rapidly adjust
+the project's direction.
+
+111
+00:04:51.550 --> 00:04:55.010
+Agile also emphasizes
+continuous feedback
+
+112
+00:04:55.010 --> 00:04:57.570
+from stakeholders and end users.
+
+113
+00:04:57.570 --> 00:05:01.250
+This feedback loop helps the
+developers to ensure that
+
+114
+00:05:01.250 --> 00:05:02.910
+the product meets
+the user's needs
+
+115
+00:05:02.910 --> 00:05:05.730
+and allows for quick
+course corrections.
+
+116
+00:05:05.750 --> 00:05:08.710
+Agile teams can be
+flexible and embrace
+
+117
+00:05:08.710 --> 00:05:10.170
+changes in requirements even
+
+118
+00:05:10.170 --> 00:05:12.290
+late in the development process.
+
+119
+00:05:12.290 --> 00:05:14.590
+This flexibility ensures that
+
+120
+00:05:14.590 --> 00:05:15.890
+the final application is
+
+121
+00:05:15.890 --> 00:05:18.640
+continuously relevant
+and valuable.
+
+122
+00:05:18.640 --> 00:05:22.110
+The agile method offers
+enhanced collaboration
+
+123
+00:05:22.110 --> 00:05:24.230
+as it encourages
+close collaboration
+
+124
+00:05:24.230 --> 00:05:26.610
+among all team members,
+including developers,
+
+125
+00:05:26.610 --> 00:05:29.830
+testers, product owners,
+and stakeholders.
+
+126
+00:05:29.830 --> 00:05:32.050
+Agile also includes
+meetings like
+
+127
+00:05:32.050 --> 00:05:34.170
+regular stand-ups,
+sprint planning,
+
+128
+00:05:34.170 --> 00:05:36.070
+and retrospectives, to examine
+
+129
+00:05:36.070 --> 00:05:39.350
+past work and facilitate
+collaboration.
+
+130
+00:05:39.790 --> 00:05:42.490
+Version control
+systems like GitHub
+
+131
+00:05:42.490 --> 00:05:44.910
+are integral to
+agile development.
+
+132
+00:05:44.910 --> 00:05:47.890
+They enable multiple team
+members to share code,
+
+133
+00:05:47.890 --> 00:05:50.600
+track changes, and
+manage versions.
+
+134
+00:05:50.600 --> 00:05:53.390
+This ensures that code
+is continuously up to
+
+135
+00:05:53.390 --> 00:05:56.830
+date and that conflicts can
+be resolved efficiently.
+
+136
+00:05:56.830 --> 00:05:59.870
+Agile teams use
+continuous integration to
+
+137
+00:05:59.870 --> 00:06:02.870
+ensure that the code is
+always ready to be deployed.
+
+138
+00:06:02.870 --> 00:06:05.330
+They also continuously deploy
+
+139
+00:06:05.330 --> 00:06:07.430
+code to automate the
+deployment process,
+
+140
+00:06:07.430 --> 00:06:09.330
+allowing new features
+and fixes to be
+
+141
+00:06:09.330 --> 00:06:12.460
+released frequently
+and reliably.
+
+142
+00:06:12.830 --> 00:06:16.610
+Agile uses self organizing
+teams where teams
+
+143
+00:06:16.610 --> 00:06:18.270
+organize around the
+project's needs
+
+144
+00:06:18.270 --> 00:06:20.650
+and the skills of
+the team members.
+
+145
+00:06:20.650 --> 00:06:23.350
+Team members are empowered
+to make decisions
+
+146
+00:06:23.350 --> 00:06:26.050
+on most aspects of the
+development process.
+
+147
+00:06:26.050 --> 00:06:28.690
+This autonomy
+fosters innovation,
+
+148
+00:06:28.690 --> 00:06:30.650
+accountability, and a sense
+
+149
+00:06:30.650 --> 00:06:33.210
+of ownership among
+the team members.
+
+150
+00:06:35.570 --> 00:06:37.750
+In this video, you learned
+
+151
+00:06:37.750 --> 00:06:39.670
+methods for effective
+workflow management,
+
+152
+00:06:39.670 --> 00:06:42.410
+including version control,
+continuous integration,
+
+153
+00:06:42.410 --> 00:06:45.365
+and deployment of code
+and agile methodologies.
+
+154
+00:06:45.365 --> 00:06:47.370
+Understanding
+workflow management
+
+155
+00:06:47.370 --> 00:06:48.630
+will make you a more effective
+
+156
+00:06:48.630 --> 00:06:50.350
+contributor as you continue
+
+157
+00:06:50.350 --> 00:06:53.260
+on this journey to
+becoming a developer.

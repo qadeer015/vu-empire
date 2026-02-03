@@ -1,0 +1,205 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.820
+Throughout this course, you'll complete several guided labs.
+
+2
+00:00:07.820 --> 00:00:13.140
+These labs are meant to give you an opportunity to practice your newly learned skills in an
+
+3
+00:00:13.140 --> 00:00:18.879
+environment where you can get help and feedback as you complete coding challenges.
+
+4
+00:00:18.879 --> 00:00:23.079
+This video will describe how to complete the guided labs in this course.
+
+5
+00:00:23.079 --> 00:00:27.680
+We will explore a guided lab together so that you'll know what to expect when you come to
+
+6
+00:00:27.680 --> 00:00:29.920
+one later in the course.
+
+7
+00:00:29.920 --> 00:00:33.680
+First, let's check the content leading up to a guided lab.
+
+8
+00:00:33.680 --> 00:00:38.279
+This structured content ensures that you have exactly the skills you need to complete the
+
+9
+00:00:38.279 --> 00:00:39.360
+task.
+
+10
+00:00:39.360 --> 00:00:45.520
+In this instance, there is a practical application video that describes in detail how this concept
+
+11
+00:00:45.520 --> 00:00:50.200
+is used in real-world situations.
+
+12
+00:00:50.200 --> 00:00:54.479
+Following this practical application video, you can review a reading that explains the
+
+13
+00:00:54.479 --> 00:00:59.799
+concept in detail so you can go through this content at your own pace.
+
+14
+00:00:59.799 --> 00:01:05.199
+Next, you'll find a video that works through the guided lab itself.
+
+15
+00:01:05.199 --> 00:01:09.480
+This video won't give you all the answers to the guided lab, but it will provide an
+
+16
+00:01:09.480 --> 00:01:13.040
+overview of the upcoming questions and challenges.
+
+17
+00:01:13.040 --> 00:01:16.559
+Lastly, we come to the guided lab itself.
+
+18
+00:01:16.559 --> 00:01:22.360
+The guided lab is a simulated code environment where you can experiment with code and receive
+
+19
+00:01:22.360 --> 00:01:27.000
+hints and feedback in a realistic coding situation.
+
+20
+00:01:27.000 --> 00:01:32.040
+To start, I'll click start.
+
+21
+00:01:32.040 --> 00:01:40.199
+In this lab, step one is an introduction to if-else statements, so I'll click begin.
+
+22
+00:01:40.199 --> 00:01:46.839
+Below the simulated code environment, I can find the specific instructions for this lab.
+
+23
+00:01:46.839 --> 00:01:50.239
+Declare the variable age as type int.
+
+24
+00:01:50.239 --> 00:01:56.559
+Place your cursor in the line 2, type your answer, and select enter to check your work.
+
+25
+00:01:56.559 --> 00:01:59.919
+Alright, I think I know this one.
+
+26
+00:01:59.919 --> 00:02:05.199
+I'm going to type in int and hit enter.
+
+27
+00:02:05.199 --> 00:02:10.720
+Great, I got that correct, and I got a bit of feedback about my correct answer.
+
+28
+00:02:10.720 --> 00:02:14.479
+To move on, I click continue.
+
+29
+00:02:14.479 --> 00:02:19.000
+In these instructions say, prompt the user to enter their age, place your cursor in the
+
+30
+00:02:19.000 --> 00:02:23.600
+line 4, type your answer, and select enter to check your work.
+
+31
+00:02:23.600 --> 00:02:25.960
+This one is a little trickier.
+
+32
+00:02:25.960 --> 00:02:33.639
+Let me try type your age.
+
+33
+00:02:33.639 --> 00:02:34.639
+Got it.
+
+34
+00:02:34.639 --> 00:02:39.119
+This feedback for my wrong answer points me in the right direction.
+
+35
+00:02:39.119 --> 00:02:41.919
+Let's try that again.
+
+36
+00:02:41.919 --> 00:02:51.559
+I'm going to erase what I had here, and then enter your age.
+
+37
+00:02:51.559 --> 00:02:54.440
+Perfect.
+
+38
+00:02:54.440 --> 00:02:56.919
+I'll click continue.
+
+39
+00:02:56.919 --> 00:02:58.960
+Let's try one more.
+
+40
+00:02:58.960 --> 00:03:05.440
+Convert the input to an integer using int.parse and store it in the age variable.
+
+41
+00:03:05.440 --> 00:03:10.960
+Place your cursor in the line 6, type your answer, and select enter to check your work.
+
+42
+00:03:11.000 --> 00:03:19.279
+Hmm, I'm not totally sure here, so I'm going to click on hint and get some help.
+
+43
+00:03:19.279 --> 00:03:25.800
+And the hint says, use console.readline, and then an open and close parentheses, display
+
+44
+00:03:25.800 --> 00:03:28.880
+a message asking their user for their age.
+
+45
+00:03:28.880 --> 00:03:30.399
+Great, that helps.
+
+46
+00:03:30.399 --> 00:03:46.320
+I'm going to click continue and type in console.readline, and I've got it.
+
+47
+00:03:46.320 --> 00:03:48.500
+That's how you work through a guided lab.
+
+48
+00:03:48.500 --> 00:03:53.600
+Some questions will require more complex code to complete, so make sure you're using the
+
+49
+00:03:53.600 --> 00:03:57.880
+hint function when you need it and reviewing the feedback provided for your right and
+
+50
+00:03:57.880 --> 00:03:59.399
+wrong answers.
+
+51
+00:03:59.399 --> 00:04:03.720
+Have fun completing these coding challenges that put your new skills to work.

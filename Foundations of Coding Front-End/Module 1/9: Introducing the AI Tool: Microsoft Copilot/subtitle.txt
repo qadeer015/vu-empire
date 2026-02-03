@@ -1,0 +1,36 @@
+[MUSIC] In today's rapidly
+evolving tech landscape, artificial intelligence plays a key role
+in making development more efficient and intelligent, that's where
+Microsoft Copilot comes in. Microsoft Copilot is a powerful, AI-driven
+tool that can assist developers in writing, optimizing, and debugging code. In this course, you'll leverage
+Copilot as a thought partner and a code generating assistant, helping you
+solve problems, generate code snippets, and enhance your projects. The goal is to provide you with hands
+on experience using a tool that real world developers use to
+improve their workflow. In the last module of this course,
+you'll engage in videos, screencasts, guided labs, and independent
+projects that integrate Copilot. These labs will take you through how to
+use specific prompts to generate code, optimize solutions, and solve problems. You`ll be shown step by step how to
+leverage Copilot's capabilities to strategically approach the final project. During the guided labs, you'll get hands
+on experience working with Copilot. These labs are structured to show you
+how to craft effective prompts and work with Copilot's code
+generation features. You'll use it to assist in writing code,
+refining your solutions, and debugging. This practice will prepare you for the independent work you'll
+do in the final project. After the videos,
+screencasts, or guided labs, you'll move on to independent
+activities where you'll take control. Here, you'll use Copilot to assist
+with various aspects of the project. You'll be making strategic decisions, but
+Copilot will support you by generating code, suggesting optimizations and
+helping you troubleshoot. This prepares you to work more
+independently while still having the power of AI to assist. The final project will combine
+everything you've learned in the course, and you'll have Copilot as a key
+tool in your development toolkit. You'll use Copilot to
+help you generate and refine code as you combine
+the concepts from earlier lessons. The project is a portfolio ready artifact
+showcasing your coding skills and your ability to leverage AI in
+modern development workflow flows. To succeed in the final module,
+actively engage with the guided labs and practice using
+Microsoft Copilot effectively. The videos and
+prompts will take you through Copilot and equip you to apply it strategically and
+independently. By the end of the course, you'll be fully
+prepared to complete the final project and demonstrate your skills using traditional
+coding and AI assisted workflows. [MUSIC]

@@ -1,0 +1,716 @@
+WEBVTT
+
+1
+00:00:07.000 --> 00:00:10.940
+Ever lost work or struggled
+to collaborate on a project,
+
+2
+00:00:10.940 --> 00:00:13.900
+enter Git, the
+lifesaver of coding.
+
+3
+00:00:13.900 --> 00:00:16.340
+This powerful version
+control system
+
+4
+00:00:16.340 --> 00:00:18.000
+keeps track of every change,
+
+5
+00:00:18.000 --> 00:00:21.180
+making teamwork smooth
+and mistakes fixable.
+
+6
+00:00:21.180 --> 00:00:23.180
+In this video, we will describe
+
+7
+00:00:23.180 --> 00:00:24.920
+the basics of Git commands,
+
+8
+00:00:24.920 --> 00:00:27.260
+and their uses in
+front end development.
+
+9
+00:00:27.260 --> 00:00:31.040
+Let's start by reviewing the
+benefits of version control.
+
+10
+00:00:31.040 --> 00:00:33.480
+Version control is
+essential because it
+
+11
+00:00:33.480 --> 00:00:35.740
+tracks all changes
+made to the code,
+
+12
+00:00:35.740 --> 00:00:38.300
+allows developers
+to collaborate,
+
+13
+00:00:38.300 --> 00:00:41.920
+enables easy reversion
+to previous versions,
+
+14
+00:00:41.920 --> 00:00:45.100
+and lets developers work
+a new features or fixes,
+
+15
+00:00:45.100 --> 00:00:47.440
+without affecting
+the main code base.
+
+16
+00:00:47.440 --> 00:00:50.180
+Though there are other
+version control systems,
+
+17
+00:00:50.180 --> 00:00:53.495
+Git is the one that's
+most widely used.
+
+18
+00:00:53.495 --> 00:00:56.450
+Git is a distributed
+version control system
+
+19
+00:00:56.450 --> 00:00:58.530
+that helps developers
+track changes,
+
+20
+00:00:58.530 --> 00:01:01.970
+collaborate, and maintain
+the history of their code.
+
+21
+00:01:01.970 --> 00:01:04.490
+Think of Git as one of
+the essential tools
+
+22
+00:01:04.490 --> 00:01:05.850
+every developer needs,
+
+23
+00:01:05.850 --> 00:01:08.290
+like brushes and
+palettes to a painter,
+
+24
+00:01:08.290 --> 00:01:09.890
+which helps them create and
+
+25
+00:01:09.890 --> 00:01:12.310
+manage different
+versions of their work.
+
+26
+00:01:12.310 --> 00:01:14.250
+In contrast, GitHub is like
+
+27
+00:01:14.250 --> 00:01:16.690
+an art gallery where
+artists store their pieces,
+
+28
+00:01:16.690 --> 00:01:20.135
+showcase their work, and
+collaborate with other artists.
+
+29
+00:01:20.135 --> 00:01:22.630
+How does get enable developers
+
+30
+00:01:22.630 --> 00:01:24.370
+to maintain the
+history of their code,
+
+31
+00:01:24.370 --> 00:01:26.415
+track changes, and collaborate?
+
+32
+00:01:26.415 --> 00:01:29.810
+Git involves the use of
+repositories and branching.
+
+33
+00:01:29.810 --> 00:01:33.705
+Let's examine how Git uses
+both of these strategies.
+
+34
+00:01:33.705 --> 00:01:36.150
+In Git, a repository is
+
+35
+00:01:36.150 --> 00:01:37.290
+a storage space where
+
+36
+00:01:37.290 --> 00:01:39.810
+all files related to
+a project are kept,
+
+37
+00:01:39.810 --> 00:01:42.710
+including their complete
+change history.
+
+38
+00:01:42.710 --> 00:01:47.070
+These repositories hold
+snapshots of all code versions,
+
+39
+00:01:47.070 --> 00:01:49.530
+allowing developers
+to track changes,
+
+40
+00:01:49.530 --> 00:01:51.770
+maintain a history, and roll
+
+41
+00:01:51.770 --> 00:01:54.770
+back to a previous
+version, if necessary.
+
+42
+00:01:54.770 --> 00:01:57.910
+Next, let's explore branching.
+
+43
+00:01:57.910 --> 00:02:01.330
+If you think of the main
+code as the main branch,
+
+44
+00:02:01.330 --> 00:02:04.270
+developers create other
+branches when they need to add
+
+45
+00:02:04.270 --> 00:02:07.970
+new code or make changes
+to the existing code.
+
+46
+00:02:07.970 --> 00:02:11.770
+Think of branching like
+making a copy of a folder.
+
+47
+00:02:11.770 --> 00:02:13.810
+When a new branch is created,
+
+48
+00:02:13.810 --> 00:02:15.950
+it's like making a copy.
+
+49
+00:02:15.950 --> 00:02:19.050
+Developers can add to, modify,
+
+50
+00:02:19.050 --> 00:02:21.650
+and test these
+documents in this copy,
+
+51
+00:02:21.650 --> 00:02:24.080
+without impacting the original.
+
+52
+00:02:24.080 --> 00:02:27.490
+Once they're sure their edits
+are correct and stable,
+
+53
+00:02:27.490 --> 00:02:29.370
+they can merge the changes
+
+54
+00:02:29.370 --> 00:02:31.970
+into the folder back
+into the main branch,
+
+55
+00:02:31.970 --> 00:02:35.460
+updating it with all
+the new modifications.
+
+56
+00:02:35.460 --> 00:02:38.550
+Developers use
+repositories and branching
+
+57
+00:02:38.550 --> 00:02:41.770
+to manage their code with
+the help of Git in GitHub.
+
+58
+00:02:41.770 --> 00:02:44.970
+But how do developers
+interact with these tools?
+
+59
+00:02:44.970 --> 00:02:47.020
+They execute commands.
+
+60
+00:02:47.020 --> 00:02:49.710
+Developers execute
+commands typically through
+
+61
+00:02:49.710 --> 00:02:52.860
+an application like GitHub
+or Visual Studio Code.
+
+62
+00:02:52.860 --> 00:02:56.690
+Some of the basic commands
+developers use include clone,
+
+63
+00:02:56.690 --> 00:03:00.530
+branch, commit, push, and pull.
+
+64
+00:03:00.530 --> 00:03:02.610
+Let's explore each
+of these commands
+
+65
+00:03:02.610 --> 00:03:04.735
+in detail, starting with clone.
+
+66
+00:03:04.735 --> 00:03:07.310
+The clone command
+creates a local copy
+
+67
+00:03:07.310 --> 00:03:10.050
+of the repository a
+developer is working on.
+
+68
+00:03:10.050 --> 00:03:12.230
+This allows them
+to start working
+
+69
+00:03:12.230 --> 00:03:14.650
+with the code base on
+their own machine.
+
+70
+00:03:14.650 --> 00:03:16.810
+To use the clone command,
+
+71
+00:03:16.810 --> 00:03:22.770
+you would type git, space, clone, space, then
+the URL of the repository.
+
+72
+00:03:22.770 --> 00:03:25.630
+For instance, if you're
+developing a new feature for
+
+73
+00:03:25.630 --> 00:03:27.270
+the shopping cart user interface
+
+74
+00:03:27.270 --> 00:03:29.030
+on an e-commerce website,
+
+75
+00:03:29.030 --> 00:03:32.190
+you would first clone
+the existing project.
+
+76
+00:03:32.190 --> 00:03:34.080
+Next, you need to create
+
+77
+00:03:34.080 --> 00:03:36.720
+a branch using the
+branch command.
+
+78
+00:03:36.720 --> 00:03:39.380
+The branch command allows
+developers to create
+
+79
+00:03:39.380 --> 00:03:42.760
+a new branch to work on a
+specific feature or fix.
+
+80
+00:03:42.760 --> 00:03:46.800
+Working on branches keeps
+the main code base stable.
+
+81
+00:03:46.800 --> 00:03:48.760
+To use the branch command,
+
+82
+00:03:48.760 --> 00:03:53.755
+you would type git, space, branch, space, then
+the name of the branch.
+
+83
+00:03:53.755 --> 00:03:56.500
+For your shopping cart
+user interface feature,
+
+84
+00:03:56.500 --> 00:03:58.020
+you might create
+a branch by using
+
+85
+00:03:58.020 --> 00:04:02.920
+the command git branch
+feature-shopping-cart-ui.
+
+86
+00:04:02.920 --> 00:04:05.260
+With a copy of the repository on
+
+87
+00:04:05.260 --> 00:04:07.780
+your local machine
+and a branch created,
+
+88
+00:04:07.780 --> 00:04:10.920
+you're now ready to get started
+on the development work.
+
+89
+00:04:10.920 --> 00:04:13.180
+Once you write some code or make
+
+90
+00:04:13.180 --> 00:04:15.140
+some code changes to
+the existing code,
+
+91
+00:04:15.140 --> 00:04:17.130
+you will commit your code.
+
+92
+00:04:17.130 --> 00:04:19.260
+The commit command captures
+
+93
+00:04:19.260 --> 00:04:21.640
+a snapshot of the
+project's changes.
+
+94
+00:04:21.640 --> 00:04:23.960
+This allows you to
+track your progress and
+
+95
+00:04:23.960 --> 00:04:26.670
+revert to a previous
+version if needed.
+
+96
+00:04:26.670 --> 00:04:28.720
+To use the commit command,
+
+97
+00:04:28.720 --> 00:04:33.930
+you would type git, space, commit, space, -m,
+
+98
+00:04:33.930 --> 00:04:36.615
+then a commit message in quotes.
+
+99
+00:04:36.615 --> 00:04:38.600
+Notice that the commit command
+
+100
+00:04:38.600 --> 00:04:41.000
+includes the commit message.
+
+101
+00:04:41.000 --> 00:04:43.880
+This is where a developer
+writes a meaningful message to
+
+102
+00:04:43.880 --> 00:04:47.125
+describe what changes were
+made to the code base.
+
+103
+00:04:47.125 --> 00:04:49.020
+For example, after creating
+
+104
+00:04:49.020 --> 00:04:50.900
+the basic layout for
+the shopping cart,
+
+105
+00:04:50.900 --> 00:04:52.520
+you might commit
+with the message,
+
+106
+00:04:52.520 --> 00:04:55.300
+initialized shopping
+cart layout.
+
+107
+00:04:55.300 --> 00:04:57.860
+When you're done with
+all of your changes,
+
+108
+00:04:57.860 --> 00:04:59.690
+you use the push command.
+
+109
+00:04:59.690 --> 00:05:01.500
+The push command updates
+
+110
+00:05:01.500 --> 00:05:03.940
+the remote repository
+with local changes,
+
+111
+00:05:03.940 --> 00:05:06.980
+allowing others to
+review and use updates.
+
+112
+00:05:06.980 --> 00:05:08.960
+To use the push command,
+
+113
+00:05:08.960 --> 00:05:12.630
+you would type git, space, push, space,
+
+114
+00:05:12.630 --> 00:05:15.360
+then the name of the
+remote repository,
+
+115
+00:05:15.360 --> 00:05:17.575
+and finally, the branch name.
+
+116
+00:05:17.575 --> 00:05:19.990
+Once you're satisfied
+with the development
+
+117
+00:05:19.990 --> 00:05:22.110
+and testing of your new
+shopping cart feature,
+
+118
+00:05:22.110 --> 00:05:23.510
+the next step is to share
+
+119
+00:05:23.510 --> 00:05:25.800
+your work by pushing
+it to GitHub.
+
+120
+00:05:25.800 --> 00:05:28.995
+You execute the command git
+
+121
+00:05:28.995 --> 00:05:32.880
+push origin
+feature-shopping-cart-ui,
+
+122
+00:05:32.880 --> 00:05:35.530
+which uploads all commands
+from your local branch
+
+123
+00:05:35.530 --> 00:05:39.620
+named feature-shopping-cart-ui
+to GitHub.
+
+124
+00:05:39.620 --> 00:05:41.750
+Now you're ready to
+start working on
+
+125
+00:05:41.750 --> 00:05:44.965
+the next feature so you could
+execute a pull command.
+
+126
+00:05:44.965 --> 00:05:47.730
+The pull command updates
+your local code base
+
+127
+00:05:47.730 --> 00:05:50.510
+with the latest changes
+from the remote repository,
+
+128
+00:05:50.510 --> 00:05:53.310
+ensuring you have the
+most current version.
+
+129
+00:05:53.310 --> 00:05:55.410
+To use the pull command,
+
+130
+00:05:55.410 --> 00:05:58.715
+you would type git, space, pull, space,
+
+131
+00:05:58.715 --> 00:06:01.530
+then the name of the
+remote repository,
+
+132
+00:06:01.530 --> 00:06:03.550
+and finally, the branch name.
+
+133
+00:06:03.550 --> 00:06:07.870
+You use the pull command
+git pull origin main,
+
+134
+00:06:07.870 --> 00:06:09.450
+to pull down the latest version
+
+135
+00:06:09.450 --> 00:06:11.685
+of the code in the repository.
+
+136
+00:06:11.685 --> 00:06:14.200
+After pulling the
+latest updates,
+
+137
+00:06:14.200 --> 00:06:16.280
+you can go back and use
+the branch command.
+
+138
+00:06:16.280 --> 00:06:18.100
+This will create
+a new branch from
+
+139
+00:06:18.100 --> 00:06:20.020
+the updated main branch,
+
+140
+00:06:20.020 --> 00:06:22.690
+so you can start working
+on your next feature.
+
+141
+00:06:22.690 --> 00:06:25.440
+This workflow maintains
+the integrity
+
+142
+00:06:25.440 --> 00:06:27.000
+and continuity of the project,
+
+143
+00:06:27.000 --> 00:06:28.480
+allowing all developers to
+
+144
+00:06:28.480 --> 00:06:31.260
+work collaboratively
+and efficiently.
+
+145
+00:06:34.150 --> 00:06:36.530
+In this video, you learn some of
+
+146
+00:06:36.530 --> 00:06:37.750
+the basic Git commands and
+
+147
+00:06:37.750 --> 00:06:39.990
+their uses in the
+development process.
+
+148
+00:06:39.990 --> 00:06:43.110
+By mastering basic Git
+commands such as clone,
+
+149
+00:06:43.110 --> 00:06:45.470
+branch, commit, push, and pull,
+
+150
+00:06:45.470 --> 00:06:48.290
+developers can effectively
+manage their code,
+
+151
+00:06:48.290 --> 00:06:49.750
+collaborate with their team,
+
+152
+00:06:49.750 --> 00:06:52.810
+and maintain a comprehensive
+history of their projects.
+
+153
+00:06:52.810 --> 00:06:54.690
+This leads to a more organized
+
+154
+00:06:54.690 --> 00:06:57.270
+and efficient
+development process.

@@ -1,0 +1,42 @@
+Completing the Guided Labs
+How to complete guided labs
+Throughout this course, you’ll complete several guided labs. These labs are meant to give you an opportunity to practice your newly learned skills in an environment where you can get help and feedback as you complete coding challenges.
+
+This reading describes how to complete the guided labs in this course; you will be able to review screenshots and instructions for working through the guided labs.
+
+Content leading up to a guided lab
+Before the guided labs in this course, you’ll find content to help you prepare.
+
+First, you’ll find a Practical Application video. These videos describe in detail how this concept is used in real-world situations.
+
+
+After these videos, a reading will explain the concept in detail so you can go through this content at your own pace.
+
+
+Finally, and right before the guided lab, there is a video that works through it. This video won’t give you all the answers to the guided lab but will provide an overview of the upcoming questions and challenges.
+
+
+Navigating a guided lab
+Once you reach a guided lab, you can review the questions and tasks you’ll need to complete.
+
+To start a guided lab, click Start.
+
+
+After clicking Start, the lab will display the first section of the lab. After you’ve reviewed it, click Begin.
+
+
+Once in the lab, you can find the question or task you’ll need to complete below the simulated coding environment.
+
+
+You can also click the Hint button for additional information to help you complete the task.
+
+
+After reviewing the hint, click Continue to close the hint and continue the lab. 
+
+
+After completing the coding task, you can select enter. You’ll find out if your answers are correct or incorrect, and you’ll receive feedback on your answers. After reviewing the feedback, you can select Continue to continue with the lab.
+
+After completing the rest of the coding tasks in the lab, you’ll have completed the lab. Some questions will require more complex code to complete, so use the hint function when you need to and review the feedback for both correct and incorrect answers. 
+
+
+

@@ -1,0 +1,540 @@
+WEBVTT
+
+1
+00:00:06.770 --> 00:00:09.830
+Welcome to the course.
+In this video,
+
+2
+00:00:09.830 --> 00:00:11.710
+we will discuss how you
+can make the most of
+
+3
+00:00:11.710 --> 00:00:14.830
+each part of the course to
+set yourself up for success.
+
+4
+00:00:14.830 --> 00:00:16.650
+Whether you watch the videos,
+
+5
+00:00:16.650 --> 00:00:19.770
+complete activities, or
+work through hands-on labs.
+
+6
+00:00:19.770 --> 00:00:22.170
+Each element has been
+designed to help you master
+
+7
+00:00:22.170 --> 00:00:23.570
+the skills you need to become
+
+8
+00:00:23.570 --> 00:00:25.830
+a confident and
+capable developer.
+
+9
+00:00:25.830 --> 00:00:28.650
+The first step in every
+lesson is the videos.
+
+10
+00:00:28.650 --> 00:00:30.770
+You'll be introduced
+to new concepts,
+
+11
+00:00:30.770 --> 00:00:32.910
+definitions, and key ideas.
+
+12
+00:00:32.910 --> 00:00:34.450
+Watch these carefully and
+
+13
+00:00:34.450 --> 00:00:36.570
+take notes on the
+important points.
+
+14
+00:00:36.570 --> 00:00:38.890
+The videos provide the
+foundational knowledge
+
+15
+00:00:38.890 --> 00:00:41.250
+you'll need to build
+on, so don't skip them.
+
+16
+00:00:41.250 --> 00:00:42.930
+They'll give you the context to
+
+17
+00:00:42.930 --> 00:00:45.345
+understand everything
+that comes next.
+
+18
+00:00:45.345 --> 00:00:48.690
+After each video,
+complete the readings.
+
+19
+00:00:48.690 --> 00:00:51.430
+These readings
+reinforce the key ideas
+
+20
+00:00:51.430 --> 00:00:53.940
+you've just learned and
+can serve as job aids.
+
+21
+00:00:53.940 --> 00:00:55.960
+I recommend printing
+out the readings,
+
+22
+00:00:55.960 --> 00:00:58.210
+or saving them for
+quick reference.
+
+23
+00:00:58.210 --> 00:01:01.570
+They'll be extremely helpful
+when completing activities,
+
+24
+00:01:01.570 --> 00:01:02.850
+working on projects,
+
+25
+00:01:02.850 --> 00:01:04.510
+or just needing a refresher.
+
+26
+00:01:04.510 --> 00:01:06.510
+They're not just supplementary.
+
+27
+00:01:06.510 --> 00:01:07.790
+They help you apply what you've
+
+28
+00:01:07.790 --> 00:01:09.905
+learned to real world tasks.
+
+29
+00:01:09.905 --> 00:01:11.960
+Throughout the
+course, you'll find
+
+30
+00:01:11.960 --> 00:01:14.100
+small but impactful activities.
+
+31
+00:01:14.100 --> 00:01:16.380
+These quick exercises
+allow you to check
+
+32
+00:01:16.380 --> 00:01:17.850
+your understanding of key ideas;
+
+33
+00:01:17.850 --> 00:01:19.630
+don't rush through them.
+
+34
+00:01:19.630 --> 00:01:21.500
+Take the time to work through
+
+35
+00:01:21.500 --> 00:01:23.420
+these activities thoughtfully.
+
+36
+00:01:23.420 --> 00:01:25.700
+After each, compare answers with
+
+37
+00:01:25.700 --> 00:01:27.000
+the answer key to check
+
+38
+00:01:27.000 --> 00:01:29.260
+how well you understand
+the material.
+
+39
+00:01:29.260 --> 00:01:32.150
+This is your chance to
+practice without pressure.
+
+40
+00:01:32.150 --> 00:01:34.580
+At the end of each lesson,
+
+41
+00:01:34.580 --> 00:01:36.600
+you'll encounter
+practice quizzes.
+
+42
+00:01:36.600 --> 00:01:39.480
+These quizzes are a great
+way to ensure you fully
+
+43
+00:01:39.480 --> 00:01:42.700
+grasp the concepts from the
+videos and the readings.
+
+44
+00:01:42.700 --> 00:01:44.720
+Use these as a checkpoint to
+
+45
+00:01:44.720 --> 00:01:47.220
+assess how well you
+retain the information.
+
+46
+00:01:47.220 --> 00:01:49.300
+If you find yourself struggling,
+
+47
+00:01:49.300 --> 00:01:51.940
+review the videos
+and readings again.
+
+48
+00:01:51.940 --> 00:01:54.180
+The goal is to build
+confidence and
+
+49
+00:01:54.180 --> 00:01:57.380
+solidify your understanding
+before moving forward.
+
+50
+00:01:57.380 --> 00:01:59.680
+When you need to
+see the material in
+
+51
+00:01:59.680 --> 00:02:02.370
+action, screencasts guide you.
+
+52
+00:02:02.370 --> 00:02:04.520
+These videos show
+you exactly how to
+
+53
+00:02:04.520 --> 00:02:07.240
+work through certain
+tasks step by step.
+
+54
+00:02:07.240 --> 00:02:09.020
+If you ever feel stuck or
+
+55
+00:02:09.020 --> 00:02:10.820
+unsure about applying a concept,
+
+56
+00:02:10.820 --> 00:02:13.795
+watch the screencasts
+and follow along.
+
+57
+00:02:13.795 --> 00:02:16.300
+This hands-on guidance
+is invaluable
+
+58
+00:02:16.300 --> 00:02:18.430
+for understanding how the
+code works in real-time,
+
+59
+00:02:18.430 --> 00:02:20.630
+and applying what
+you've learned.
+
+60
+00:02:20.630 --> 00:02:22.630
+At the end of each module,
+
+61
+00:02:22.630 --> 00:02:24.660
+there will be graded quizzes.
+
+62
+00:02:24.660 --> 00:02:27.450
+These are an important part
+of your success as they
+
+63
+00:02:27.450 --> 00:02:30.310
+allow you to demonstrate
+mastery of the material.
+
+64
+00:02:30.310 --> 00:02:32.850
+These quizzes build on
+the practice quizzes,
+
+65
+00:02:32.850 --> 00:02:34.570
+and they are a great way
+to ensure you're ready
+
+66
+00:02:34.570 --> 00:02:37.130
+to move on to more
+advanced concepts.
+
+67
+00:02:37.130 --> 00:02:40.030
+Treat these quizzes
+as milestones.
+
+68
+00:02:40.030 --> 00:02:41.690
+Passing them means you're fully
+
+69
+00:02:41.690 --> 00:02:43.950
+prepared for the next challenge.
+
+70
+00:02:44.010 --> 00:02:46.270
+The guided labs are where you'll
+
+71
+00:02:46.270 --> 00:02:47.810
+take the concepts
+from the lessons,
+
+72
+00:02:47.810 --> 00:02:51.210
+and apply them in a controlled
+hands-on environment.
+
+73
+00:02:51.210 --> 00:02:54.650
+These labs will take you
+step by step through tasks,
+
+74
+00:02:54.650 --> 00:02:57.270
+including helpful
+feedback and hints.
+
+75
+00:02:57.270 --> 00:02:59.030
+The more effort you put into
+
+76
+00:02:59.030 --> 00:03:01.010
+the labs, the more
+you'll get out of them.
+
+77
+00:03:01.010 --> 00:03:02.830
+It's all about
+learning by doing,
+
+78
+00:03:02.830 --> 00:03:04.230
+so take your time and ensure you
+
+79
+00:03:04.230 --> 00:03:06.930
+understand each step
+before moving on.
+
+80
+00:03:06.990 --> 00:03:09.610
+After you've completed
+the guided labs,
+
+81
+00:03:09.610 --> 00:03:11.130
+it's time to test
+your skills with
+
+82
+00:03:11.130 --> 00:03:13.770
+independent projects
+or You Try It!.
+
+83
+00:03:13.770 --> 00:03:16.090
+This is where you'll
+apply everything you've
+
+84
+00:03:16.090 --> 00:03:18.745
+learned without
+step-by-step instructions.
+
+85
+00:03:18.745 --> 00:03:20.650
+These projects are a great way
+
+86
+00:03:20.650 --> 00:03:21.990
+to gauge how far you've come,
+
+87
+00:03:21.990 --> 00:03:24.300
+and to put your
+knowledge to the test.
+
+88
+00:03:24.300 --> 00:03:26.310
+Don't worry if you
+feel challenged,
+
+89
+00:03:26.310 --> 00:03:27.990
+that's part of the
+learning process.
+
+90
+00:03:27.990 --> 00:03:29.670
+By completing these projects,
+
+91
+00:03:29.670 --> 00:03:32.850
+you'll reinforce your skills
+and build confidence.
+
+92
+00:03:32.850 --> 00:03:34.870
+Finally, at the
+end of the course,
+
+93
+00:03:34.870 --> 00:03:37.170
+you'll complete a
+culminating hands-on project
+
+94
+00:03:37.170 --> 00:03:39.850
+that you can use as a
+portfolio artifact.
+
+95
+00:03:39.850 --> 00:03:41.650
+This project will showcase
+
+96
+00:03:41.650 --> 00:03:43.230
+the skills you've gained
+throughout the course,
+
+97
+00:03:43.230 --> 00:03:44.530
+and give you
+something tangible to
+
+98
+00:03:44.530 --> 00:03:46.835
+present to potential employers.
+
+99
+00:03:46.835 --> 00:03:49.100
+As you progress to the program,
+
+100
+00:03:49.100 --> 00:03:50.840
+these portfolio
+pieces will become
+
+101
+00:03:50.840 --> 00:03:53.420
+stronger representations of
+your hands-on experience,
+
+102
+00:03:53.420 --> 00:03:56.200
+and understanding
+of key concepts.
+
+103
+00:03:56.320 --> 00:03:58.580
+Success in this course comes
+
+104
+00:03:58.580 --> 00:04:00.600
+down to using all
+the tools available.
+
+105
+00:04:00.600 --> 00:04:02.460
+Watch the videos carefully,
+
+106
+00:04:02.460 --> 00:04:04.240
+engage with the readings,
+
+107
+00:04:04.240 --> 00:04:07.075
+complete the activities
+and quizzes thoughtfully,
+
+108
+00:04:07.075 --> 00:04:08.540
+and take full advantage of
+
+109
+00:04:08.540 --> 00:04:11.620
+the screencasts,
+labs, and projects.
+
+110
+00:04:11.620 --> 00:04:14.260
+Each element of this
+course is designed to
+
+111
+00:04:14.260 --> 00:04:16.955
+help you master the
+material step by step.
+
+112
+00:04:16.955 --> 00:04:19.480
+By the end you'll have a
+solid understanding of
+
+113
+00:04:19.480 --> 00:04:22.620
+the concepts and real projects
+to prove your skills.
+
+114
+00:04:22.620 --> 00:04:25.400
+Remember to persist.
+Take your time,
+
+115
+00:04:25.400 --> 00:04:26.820
+and you'll be ready for a
+
+116
+00:04:26.820 --> 00:04:29.280
+successful career
+in development.

@@ -1,0 +1,406 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.933
+[MUSIC]
+
+2
+00:00:07.072 --> 00:00:10.648
+Have you ever wondered what makes
+your favorite website so seamless and
+
+3
+00:00:10.648 --> 00:00:11.313
+easy to use?
+
+4
+00:00:11.313 --> 00:00:13.990
+That's the magic of front-end development.
+
+5
+00:00:13.990 --> 00:00:18.345
+In this video, we're going to define front-
+end development, and we'll further explore
+
+6
+00:00:18.345 --> 00:00:22.030
+front-end development by examining
+the principles that follows.
+
+7
+00:00:22.030 --> 00:00:24.390
+Let's start with a definition.
+
+8
+00:00:24.390 --> 00:00:28.554
+Front-end development is the practice
+of building the visual and interactive
+
+9
+00:00:28.554 --> 00:00:33.430
+elements of a website or web application
+that users directly interact with.
+
+10
+00:00:33.430 --> 00:00:36.610
+Now let's explore the principles
+followed in front-end development.
+
+11
+00:00:37.750 --> 00:00:41.263
+Front-end development involves
+creating an interface for
+
+12
+00:00:41.263 --> 00:00:46.210
+the user that adheres to some standard
+principles, including responsiveness,
+
+13
+00:00:46.210 --> 00:00:50.450
+accessibility, security, and
+visual appearance and engagement.
+
+14
+00:00:51.550 --> 00:00:56.450
+Let's examine each of these principles in
+more detail, starting with responsiveness.
+
+15
+00:00:57.550 --> 00:01:01.505
+Responsiveness refers to the ability
+of a website to change its layout and
+
+16
+00:01:01.505 --> 00:01:04.650
+content to fit different screen sizes and
+orientations.
+
+17
+00:01:05.750 --> 00:01:11.601
+Responsiveness ensures that users have an
+easily navigable experience on any device,
+
+18
+00:01:11.601 --> 00:01:15.910
+be it a desktop, laptop,
+tablet, or smartphone.
+
+19
+00:01:15.910 --> 00:01:18.056
+Front-end developers make websites and
+
+20
+00:01:18.056 --> 00:01:22.550
+applications responsive by using
+a mobile first design approach.
+
+21
+00:01:22.550 --> 00:01:27.174
+This approach involves designing the
+website for smaller screens initially and
+
+22
+00:01:27.174 --> 00:01:30.270
+then adapting it to larger screens.
+
+23
+00:01:30.270 --> 00:01:33.573
+This ensures that the website
+is efficient and accessible for
+
+24
+00:01:33.573 --> 00:01:36.070
+mobile users from the start.
+
+25
+00:01:36.070 --> 00:01:39.790
+Now that we've explored how websites
+adapt to different devices,
+
+26
+00:01:39.790 --> 00:01:43.130
+let's consider another crucial aspect:
+accessibility.
+
+27
+00:01:44.310 --> 00:01:48.507
+Accessibility ensures that websites and
+applications are usable by everyone,
+
+28
+00:01:48.507 --> 00:01:50.426
+regardless of their abilities.
+
+29
+00:01:50.426 --> 00:01:53.912
+Front-end developers make websites and
+applications accessible
+
+30
+00:01:53.912 --> 00:01:58.282
+by creating interfaces that can be easily
+navigated and understood by everyone,
+
+31
+00:01:58.282 --> 00:02:01.370
+including people with disabilities.
+
+32
+00:02:01.370 --> 00:02:05.780
+This involves using clear and simple
+language, providing alternate text for
+
+33
+00:02:05.780 --> 00:02:08.850
+images, or
+what's commonly called "alt text".
+
+34
+00:02:08.850 --> 00:02:12.995
+Other examples of accessibility
+are ensuring keyboard navigability, and
+
+35
+00:02:12.995 --> 00:02:16.820
+utilizing design with
+sufficient color contrast.
+
+36
+00:02:16.820 --> 00:02:21.495
+By integrating these elements, developers
+can build websites that are inclusive and
+
+37
+00:02:21.495 --> 00:02:23.103
+cater to a diverse audience.
+
+38
+00:02:23.103 --> 00:02:27.720
+Similar to how responsiveness and
+accessibility enable a diverse range of
+
+39
+00:02:27.720 --> 00:02:32.628
+users to use websites and applications,
+security ensures that these users can
+
+40
+00:02:32.628 --> 00:02:36.823
+safely perform a growing and
+diverse range of tasks online.
+
+41
+00:02:36.823 --> 00:02:38.947
+Security refers to the measures and
+
+42
+00:02:38.947 --> 00:02:42.348
+protocols developers implement
+to protect websites and
+
+43
+00:02:42.348 --> 00:02:48.280
+applications from unauthorized access,
+data breaches, and other cyber threats.
+
+44
+00:02:48.280 --> 00:02:52.800
+Building secure interfaces involves
+a few important practices.
+
+45
+00:02:52.800 --> 00:02:57.398
+First, ensure robust user authentication
+and authorization, which means
+
+46
+00:02:57.398 --> 00:03:03.160
+ensuring that only verified users can
+access certain information or features.
+
+47
+00:03:03.160 --> 00:03:08.053
+Next, secure data forms or parts of
+an application that get data from a user,
+
+48
+00:03:08.053 --> 00:03:10.161
+such as a login or payment forms,
+
+49
+00:03:10.161 --> 00:03:15.160
+to protect the information users
+submit from being accessed by others.
+
+50
+00:03:15.160 --> 00:03:20.033
+Using cookies safely is also essential, as
+they help remember user information but
+
+51
+00:03:20.033 --> 00:03:23.360
+must be handled carefully
+to maintain privacy.
+
+52
+00:03:23.360 --> 00:03:25.904
+Finally, encryption plays a key role.
+
+53
+00:03:25.904 --> 00:03:28.857
+It scrambles data so
+that even if someone intercepts it,
+
+54
+00:03:28.857 --> 00:03:31.208
+they cannot understand it without a key.
+
+55
+00:03:31.208 --> 00:03:35.666
+These measures collectively help make the
+web a safer place for users to engage and
+
+56
+00:03:35.666 --> 00:03:37.240
+transact data.
+
+57
+00:03:37.240 --> 00:03:41.930
+As a front end developer, it's crucial
+to craft interfaces that are responsive,
+
+58
+00:03:41.930 --> 00:03:43.680
+accessible and secure.
+
+59
+00:03:43.680 --> 00:03:47.022
+However, front-end development
+goes beyond just functionality.
+
+60
+00:03:47.022 --> 00:03:51.020
+It's also about creating visually
+appealing applications that engage users.
+
+61
+00:03:52.400 --> 00:03:54.567
+Creating visually appealing and
+
+62
+00:03:54.567 --> 00:03:59.596
+engaging websites involves the thoughtful
+integration of user interface or
+
+63
+00:03:59.596 --> 00:04:05.420
+U-I, and User Experience or U-X design,
+commonly referred together as UI/UX design.
+
+64
+00:04:05.420 --> 00:04:08.625
+Let's explore the distinctions
+between user interface and
+
+65
+00:04:08.625 --> 00:04:11.820
+user experience with definitions of each.
+
+66
+00:04:11.820 --> 00:04:15.748
+The User Interface, or UI, is the set
+of visual elements like buttons and
+
+67
+00:04:15.748 --> 00:04:20.440
+icons, that enable interaction between
+the user and a digital device or product.
+
+68
+00:04:21.460 --> 00:04:26.555
+While UI focuses on the visual elements of
+a website or application, user experience
+
+69
+00:04:26.555 --> 00:04:31.297
+encompasses all aspects of the end-
+user's interaction with the application,
+
+70
+00:04:31.297 --> 00:04:35.710
+focusing on the overall feel and
+the ease of using the product or service.
+
+71
+00:04:36.730 --> 00:04:38.811
+You might have encountered UX and
+
+72
+00:04:38.811 --> 00:04:43.930
+UI in the context of roles typically
+associated with graphic designers.
+
+73
+00:04:43.930 --> 00:04:48.270
+However, the principles of UX and
+UI are not limited to designers alone.
+
+74
+00:04:49.490 --> 00:04:53.480
+Front-end developers play a key
+role in implementing UX/UI designs,
+
+75
+00:04:53.480 --> 00:04:56.350
+translating design
+concepts into functional,
+
+76
+00:04:56.350 --> 00:04:59.850
+interactive elements that
+users interact with directly.
+
+77
+00:05:00.910 --> 00:05:04.742
+Front-end development is about creating
+interfaces that are not only visually
+
+78
+00:05:04.742 --> 00:05:08.110
+appealing and engaging,
+but also functional.
+
+79
+00:05:08.110 --> 00:05:11.556
+In this video, you learned what
+front-end development is and
+
+80
+00:05:11.556 --> 00:05:14.933
+about the principles that
+front-end developers follow,
+
+81
+00:05:14.933 --> 00:05:18.241
+including responsiveness
+using mobile-first design,
+
+82
+00:05:18.241 --> 00:05:23.238
+prioritizing accessibility and security,
+and developing visually appealing and
+
+83
+00:05:23.238 --> 00:05:27.390
+engaging websites and
+applications using UX/UI design.
+
+84
+00:05:27.390 --> 00:05:31.561
+These principles ensure their digital
+products are successful and user-friendly.
+
+85
+00:05:31.561 --> 00:05:32.061
+[MUSIC]
